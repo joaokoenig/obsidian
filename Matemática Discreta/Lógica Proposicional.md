@@ -17,3 +17,5 @@ p and q = o sol está brilhando e está frio.
 - Disjunção exclusiva: p $\oplus$ q; p xor q;
 - Condicional: se p então q; p $\rightarrow$ q;
 - Bicondicional: p se e somente se q; p $\leftrightarrow$ q;
+| p | q |
+|:---|:---|

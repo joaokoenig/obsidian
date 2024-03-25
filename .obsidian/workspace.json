@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Matemática Discreta/Lógica Proposicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Matemática Discreta/Lógica Proposicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Matemática Discreta/Lógica Proposicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/testing.md"
+                "file": "Matemática Discreta/Lógica Proposicional.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   "lastOpenFiles": [
     "Matemática Discreta/Lógica de Predicados.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
+    "Testing/testing.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Matemática Discreta/Lógica Proposicional.md",
     "2024-03-20.md",
-    "Testing/testing.md",
     "Testing",
     "Calculus 1/Testing.md",
     "Chess/Openings and defenses.md",
