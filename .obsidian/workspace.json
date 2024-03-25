@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Matemática Discreta/Conjuntos e Sequências.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Matemática Discreta/Conjuntos e Sequências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Matemática Discreta/Conjuntos e Sequências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md"
+                "file": "Matemática Discreta/Conjuntos e Sequências.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad7120a5a870572",
+  "active": "e4ad8ca0e2246e6e",
   "lastOpenFiles": [
-    "Matemática Discreta/Lógica Proposicional.md",
-    "Matemática Discreta/Lógica de Predicados.md",
-    "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
-    "2024-03-20.md",
-    "Testing/testing.md",
     "Circuitos Digitais/Sistemas de numeração.md",
-    "Testing",
+    "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
+    "Testing/testing.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
+    "Matemática Discreta/Lógica de Predicados.md",
+    "Matemática Discreta/Lógica Proposicional.md",
+    "2024-03-20.md",
+    "Testing",
     "Calculus 1/Testing.md",
     "Chess/Openings and defenses.md",
     "Chess",
