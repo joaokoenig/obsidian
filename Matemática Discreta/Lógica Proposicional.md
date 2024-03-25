@@ -17,5 +17,16 @@ p and q = o sol está brilhando e está frio.
 - Disjunção exclusiva: p $\oplus$ q; p xor q;
 - Condicional: se p então q; p $\rightarrow$ q;
 - Bicondicional: p se e somente se q; p $\leftrightarrow$ q;
-| p | q |
-|:---|:---|
+
+### Tabela Verdade AND
+p $\vee$ q
+
+| p   | q   |
+| --- | --- |
+| 0   | 0   |
+| 0   | 1   |
+| 1   | 0   |
+| 1   | 1   |
+$\begin{pmatrix}
+1 & 2 & 3
+\end{pmatrix}$
