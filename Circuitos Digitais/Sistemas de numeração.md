@@ -1,0 +1,7 @@
+- Sistema decimal
+- Sistema binário
+- Sistema octogonal 
+- Sistema quaternário
+- Sistema hexadecimal
+- Código Grey
+- Código BCD
