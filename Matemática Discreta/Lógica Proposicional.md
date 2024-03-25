@@ -27,6 +27,9 @@ p $\vee$ q
 | 0   | 1   |
 | 1   | 0   |
 | 1   | 1   |
-$\begin{pmatrix}
-1 & 2 & 3
-\end{pmatrix}$
+$$
+\begin{pmatrix}
+1 & 2 & 3 \ \\
+2 & 3 & 0
+\end{pmatrix}
+
