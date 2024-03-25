@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Testing/testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Testing/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Testing/testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md"
+                "file": "Testing/testing.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "dad7120a5a870572",
   "lastOpenFiles": [
-    "Matemática Discreta/Lógica Proposicional.md",
     "Matemática Discreta/Lógica de Predicados.md",
+    "Matemática Discreta/Conjuntos e Sequências.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
+    "Circuitos Digitais/Sistemas de numeração.md",
+    "Matemática Discreta/Lógica Proposicional.md",
     "2024-03-20.md",
     "Testing/testing.md",
-    "Circuitos Digitais/Sistemas de numeração.md",
     "Testing",
-    "Matemática Discreta/Conjuntos e Sequências.md",
     "Calculus 1/Testing.md",
     "Chess/Openings and defenses.md",
     "Chess",
