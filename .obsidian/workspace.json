@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md",
+                "file": "Matemática Discreta/Métodos de Prova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1c5c3870c92c570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática Discreta/Métodos de Prova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35cd9a6eaab13a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática Discreta/Métodos de Prova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bc72a5f821ab627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ad8ca0e2246e6e",
+  "active": "4bc72a5f821ab627",
   "lastOpenFiles": [
+    "Matemática Discreta/Métodos de Prova.md",
+    "conflict-files-obsidian-git.md",
+    "Matemática Discreta/Lógica Proposicional.md",
+    "Matemática Discreta/Conjuntos e Sequências.md",
+    "Testing/testing.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
-    "Testing/testing.md",
-    "Matemática Discreta/Conjuntos e Sequências.md",
     "Matemática Discreta/Lógica de Predicados.md",
-    "Matemática Discreta/Lógica Proposicional.md",
     "2024-03-20.md",
     "Testing",
     "Calculus 1/Testing.md",
