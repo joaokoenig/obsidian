@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Métodos de Prova.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Métodos de Prova.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Métodos de Prova.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Métodos de Prova.md"
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md"
               }
             }
           }
@@ -173,12 +173,13 @@
   },
   "active": "35cd9a6eaab13a5a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Circuitos Digitais/Sistemas de numeração.md",
+    "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Matemática Discreta/Métodos de Prova.md",
+    "conflict-files-obsidian-git.md",
     "Matemática Discreta/Lógica Proposicional.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
     "Testing/testing.md",
-    "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
     "Matemática Discreta/Lógica de Predicados.md",
     "2024-03-20.md",
