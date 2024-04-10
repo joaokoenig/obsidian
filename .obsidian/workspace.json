@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuitos Digitais/Boolean Algebra Quiz.md",
+                "file": "Circuitos Digitais/Circuitos Mais Complexos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuitos Digitais/Boolean Algebra Quiz.md",
+                "file": "Circuitos Digitais/Circuitos Mais Complexos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuitos Digitais/Boolean Algebra Quiz.md",
+                "file": "Circuitos Digitais/Circuitos Mais Complexos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuitos Digitais/Boolean Algebra Quiz.md"
+                "file": "Circuitos Digitais/Circuitos Mais Complexos.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "35cd9a6eaab13a5a",
   "lastOpenFiles": [
     "Matemática Discreta/Lógica Proposicional.md",
-    "Circuitos Digitais/Boolean Algebra Quiz.md",
+    "Circuitos Digitais/Circuitos Mais Complexos.md",
     "Matemática Discreta/Métodos de Prova.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
     "Circuitos Digitais/Operações com Números Binários.md",
