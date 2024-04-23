@@ -47,9 +47,11 @@
             "id": "46bec7c6e83ba093",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Testing/testing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md",
+                "file": "Testing/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md",
+                "file": "Testing/testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Conjuntos e Sequências.md"
+                "file": "Testing/testing.md"
               }
             }
           }
@@ -181,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46bec7c6e83ba093",
+  "active": "e4ad8ca0e2246e6e",
   "lastOpenFiles": [
     "Circuitos Digitais/Circuitos Mais Complexos.md",
     "Matemática Discreta/Lógica Proposicional.md",
