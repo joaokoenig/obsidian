@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46bec7c6e83ba093",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35cd9a6eaab13a5a",
+  "active": "46bec7c6e83ba093",
   "lastOpenFiles": [
     "Circuitos Digitais/Circuitos Mais Complexos.md",
     "Matemática Discreta/Lógica Proposicional.md",
