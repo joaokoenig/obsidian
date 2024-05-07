@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "46bec7c6e83ba093",
+            "id": "eb6e5d5f7ca64159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Config Arch Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Config Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/testing.md",
+                "file": "Config Arch Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/testing.md"
+                "file": "Config Arch Linux.md"
               }
             }
           }
@@ -183,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46bec7c6e83ba093",
+  "active": "eb6e5d5f7ca64159",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Config Arch Linux.md",
+    "Testing/testing.md",
     "Matemática Discreta/Métodos de Prova.md",
     "Circuitos Digitais/Circuitos Mais Complexos.md",
     "Matemática Discreta/Lógica Proposicional.md",
@@ -194,8 +197,6 @@
     "Circuitos Digitais/Sistemas de Numeração.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Matemática Discreta/Indução e Recursão.md",
-    "conflict-files-obsidian-git.md",
-    "Testing/testing.md",
     "Matemática Discreta/Lógica de Predicados.md",
     "2024-03-20.md",
     "Testing",
