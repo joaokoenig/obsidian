@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6266951a02cbcc56",
@@ -170,20 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad7120a5a870572",
+  "active": "e1c5c3870c92c570",
   "lastOpenFiles": [
+    "Matemática Discreta/Lógica Proposicional.md",
+    "Matemática Discreta/Indução e Recursão.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
+    "Matemática Discreta/Lógica de Predicados.md",
     "Matemática Discreta/Métodos de Prova.md",
     "Testing/testing.md",
     "Circuitos Digitais/Circuitos Mais Complexos.md",
-    "Matemática Discreta/Lógica Proposicional.md",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
     "Circuitos Digitais/Sistemas de Numeração.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
-    "Matemática Discreta/Indução e Recursão.md",
     "conflict-files-obsidian-git.md",
-    "Matemática Discreta/Lógica de Predicados.md",
     "2024-03-20.md",
     "Testing",
     "Calculus 1/Testing.md",
