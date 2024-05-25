@@ -77,3 +77,14 @@ Podemos concluir então que o número de permutações distintas que podem ser f
 $$
 onde $k_{1}+ k_{2} + k_{3}\dots k_{t}=n$.
 
+### Combinações 
+==Ordem não importa!
+
+**Exemplo**: Quantos grupos de 3 alunos podem ser formados a partir de um grupo de 4 alunos? 
+
+-  Note que a ordem dos alunos no grupo não importa. Queremos saber quantos subconjuntos de 3 elementos podemos formar a partir de um conjunto de 4 elementos.
+
+**Resposta**: $G = \{ a,b,c,d \}$ 
+$S_{1}= \{ a,b,c \}$
+$S_{2} = \{ a,b,d \}$
+$$
