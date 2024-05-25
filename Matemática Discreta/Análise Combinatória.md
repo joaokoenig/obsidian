@@ -27,8 +27,17 @@ $$
 $$
 P_{n} = n!
 $$
-Exemplo: Seja um conjunto $A = \{ a,b,c \}$, as possíveis permutações desse conjunto são:
+**Exemplo**: Seja um conjunto $A = \{ a,b,c \}$, as possíveis permutações desse conjunto são:
 $$
 abc, acb, bac, bca, cab, cba
 $$
-Como temos que $n = 3$, podemos conferir que $P_{3}=6$
+Como temos que $n = 3$, podemos conferir que $P_{3}= 3! = 6$.
+
+- Para um inteiro positivo $n$ e um inteiro positivo $r$ com $1\leq r\leq n$, temos que:
+$$
+_{n}P_{r}= \frac{n!}{(n-r)!}
+$$
+**Exemplo**: Seja um conjunto $A = \{ a,b,c \}$, as possíveis permutações de tamanho 2 são:
+$$
+_{3}P_{2}= \frac{3!}{(3-2)!} = \frac{3!}{1!} = 6
+$$
