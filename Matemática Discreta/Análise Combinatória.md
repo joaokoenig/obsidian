@@ -54,5 +54,13 @@ e o resultado dessas permutações será:  aa, ab, ac, ba, bb, bc, ca, cb, cc.
 
 ##### Permutações com repetições limitadas
 - Vamos analisar um exemplo que torna a visualização desse caso mais claro:
+**Exemplo**: Quantas permutações distinguíveis existem com as letras da palavra ==BANANA==?
+**Respota**: 
+ Se rotularmos as letras que contém repetição, teremos que: 
+BANANA = $B A_{1} N_{1} A_{2} N_{2} A_{3}$ = 6 letras = $P_{6}$ = 6! = 720 permutações.
 
+Todavia, algumas dessas permutações são idênticas sem os rótulos das letras, como por exemplo: $A_{1}A_{2}A_{3}N_{1}N_{2}B$ é idêntico a $A_{2}A_{1}A_{3}N_{2}N_{1}B$.
 
+Como $N_{1}N_{2}$ e $N_{2}N_{1}$ geram palavras indistinguíveis, tirando os rótulos, temos que 720/2 = 360 palavras distinguíveis.
+
+De modo similar, essas 360 permutações 
