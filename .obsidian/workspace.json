@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#uma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10a86df2fac31ad4",
+  "active": "40d6b7b287a4c873",
   "lastOpenFiles": [
     "Matemática Discreta/Análise Combinatória.md",
     "Matemática Discreta/Métodos de Prova.md",

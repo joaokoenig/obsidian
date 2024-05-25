@@ -82,9 +82,16 @@ onde $k_{1}+ k_{2} + k_{3}\dots k_{t}=n$.
 
 **Exemplo**: Quantos grupos de 3 alunos podem ser formados a partir de um grupo de 4 alunos? 
 
--  Note que a ordem dos alunos no grupo não importa. Queremos saber quantos subconjuntos de 3 elementos podemos formar a partir de um conjunto de 4 elementos.
+_note que a ordem dos alunos no grupo não importa. Queremos saber quantos subconjuntos de 3 elementos podemos formar a partir de um conjunto de 4 elementos._
 
 **Resposta**: $G = \{ a,b,c,d \}$ 
 $S_{1}= \{ a,b,c \}$
 $S_{2} = \{ a,b,d \}$
-$$
+$S_{3}= \{ a, d,c\}$
+$S_{4} = \{ b,c,d \}$
+
+- Uma **r-combinação** de elementos de um conjunto S é uma seleção não ordenada de r elementos a partir de S. 
+- Uma combinação de S tomado r a r. 
+- Ou seja, um subconjunto de S com r elementos.
+**Exemplo**: Seja $S = \{ a,b,c,d\}$, uma  3-combinação de S seria = $\{ a,b,c\}$.
+
