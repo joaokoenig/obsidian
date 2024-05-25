@@ -41,3 +41,13 @@ $$
 $$
 _{3}P_{2}= \frac{3!}{(3-2)!} = \frac{3!}{1!} = 6
 $$
+Tendo assim os subconjuntos: $ab, ac, ba, bc, ca, cb$.
+
+- Se pudermos repetir os elementos, temos : $n^r$
+
+**Exemplo**:  Seja um conjunto $A= \{ a,b,c \}$, e podendo repetir os elementos, quantas permutações de tamanho 2 podemos fazer? 
+
+$$
+n^r = 3^2 = 9
+$$
+e o resultado dessas permutações será:  aa, ab, ac, ba, bb, bc, ca, cb, cc.
