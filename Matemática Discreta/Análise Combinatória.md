@@ -95,3 +95,9 @@ $S_{4} = \{ b,c,d \}$
 - Ou seja, um subconjunto de S com r elementos.
 **Exemplo**: Seja $S = \{ a,b,c,d\}$, uma  3-combinação de S seria = $\{ a,b,c\}$.
 
+- O número de **r-combinações** de um conjunto de n elementos distintos é representado por C(n,r) ou  $_{n}C_{r}$  ou  $\binom{n}{r}$ (coeficiente binomial).
+##### **Teorema**:
+- O número de r-combinações de um conjunto com n elementos distintos, em que $n$ é um número inteirio não negativo e $r$ é um número inteiro em que $0\leq r\leq n$, é:
+$$
+C(n,r) = \frac{n!}{r!(n-r)!}
+$$
