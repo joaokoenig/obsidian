@@ -61,6 +61,19 @@ BANANA = $B A_{1} N_{1} A_{2} N_{2} A_{3}$ = 6 letras = $P_{6}$ = 6! = 720 permu
 
 Todavia, algumas dessas permutações são idênticas sem os rótulos das letras, como por exemplo: $A_{1}A_{2}A_{3}N_{1}N_{2}B$ é idêntico a $A_{2}A_{1}A_{3}N_{2}N_{1}B$.
 
-Como $N_{1}N_{2}$ e $N_{2}N_{1}$ geram palavras indistinguíveis, tirando os rótulos, temos que 720/2 = 360 palavras distinguíveis.
+Como $N_{1}N_{2}$ e $N_{2}N_{1}$ geram palavras indistinguíveis, tirando os rótulos, temos que $\frac{720}{2} = 360$  palavras distinguíveis.
 
-De modo similar, essas 360 permutações 
+De modo similar, essas 360 permutações podem ser agrupadas em grupos de 3!, já que o A se repete em 3! ($A_{1}A_{2}A_{3}$).
+
+$\frac{360}{6} = 60$, sendo assim, 60 é o número de permutações distinguíveis que podemos fazer com a palavra BANANA.
+
+Podemos concluir então que o número de permutações distintas que podem ser formadas com uma coleção $n$ de objetos em que:
+
+- o primeiro objeto aparace $K_{1}$ vezes.
+- o segundo objeto aparece $K_{2}$ vezes.
+- ... 
+é dado por $$
+\frac{n!}{k_{1}!k_{2}!\dots k_{t}}
+$$
+onde $k_{1}+ k_{2} + k_{3}\dots k_{t}=n$.
+
