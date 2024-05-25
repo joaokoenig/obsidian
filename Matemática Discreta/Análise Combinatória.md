@@ -20,3 +20,15 @@ $$
 **Problema**: Quantas strings binárias de diferentes de tamanho 7 podemos formar? 
 **Resposta**: $2 \times 2 \times 2 \times 2 \times 2 \times 2 \times 2 = 2⁷ = 128$
 
+**Problema**: De quantas maneiras diferentes podemos ordenar 5 alunos diferentes em uma fila? 
+**Resposta**: $5 \times 4 \times 3 \times 2 \times 1 = 5! = 120$
+
+- Dessa forma, temos que a Permutação de P de tamanho $n$ é igual a:
+$$
+P_{n} = n!
+$$
+Exemplo: Seja um conjunto $A = \{ a,b,c \}$, as possíveis permutações desse conjunto são:
+$$
+abc, acb, bac, bca, cab, cba
+$$
+Como temos que $n = 3$, podemos conferir que $P_{3}=6$
