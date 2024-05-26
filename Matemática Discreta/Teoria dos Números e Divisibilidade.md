@@ -113,3 +113,8 @@ Sabemos que nesse caso, $5 \mid 10$.
 - Todo inteiro composto $n$ pode ser escrito exatamente como um produto da forma $n = p_{1}\times p_{2}\times \dots p_{r}$ onde p é um número primo.
 
 _Não existe um algoritmo que gere números primos._
+##### Teorema de Bézout
+**Teorema:
+- Sendo $d$ o $mdc(a,b)$, existem números inteiros $x$ e $y$, tais que 
+$d = ax+by$.
+
