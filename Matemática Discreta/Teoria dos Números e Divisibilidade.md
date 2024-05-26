@@ -109,3 +109,5 @@ _Essa técnica da escola funciona para números pequenos no qual já conhecemos 
 Repare que $5\mid 4\times 10$.
 Pelo teorema, sabemos que $5\mid 4$ ou $5 \mid 10$.
 Sabemos que nesse caso, $5 \mid 10$.
+**Teorema**:
+- 
