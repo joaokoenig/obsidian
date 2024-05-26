@@ -74,4 +74,14 @@ Sejam a e b números inteiros. Dizemos que o inteiro $d$ é o máximo divisor co
 O máximo divisor comum é denotado mdc$(a,b)$. Esse valor é único para $a$ e $b$.
 
 ##### Propriedades do MDC
-- Se $a$ e $b$ não forem nulos $1\leq mdc(a,b)\leq min()$
+- Se $a$ e $b$ não forem nulos $1\leq mdc(a,b)\leq min(\left|a\right|, \left|b\right|)$
+- $mdc(a,b) = mdc(b,a)$
+- $mdc(a,b)= mdc(-a,b)$
+- $mdc(a,b)= mdc(\left|a\right|,\left|b\right|)$
+- $mdc(a,0) = \left|a\right|$
+- $mdc(a, ka)= \left|a\right|, \forall k\in\mathbb{Z}$
+##### Como calcular o mdc?
+Na escola aprendemos a técnica de cálculo de mdc que consiste em:
+- Fatorar os números em seus fatores primos
+- Identificar os fatores primos em comum e seus menores expoentes: 
+- Calcular o mdc
