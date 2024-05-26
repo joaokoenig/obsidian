@@ -3,5 +3,6 @@
   "cssTheme": "Catppuccin",
   "baseFontSize": 18,
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "FreeSans"
 }

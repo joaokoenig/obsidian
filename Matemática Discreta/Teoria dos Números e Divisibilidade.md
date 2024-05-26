@@ -43,3 +43,16 @@ em que $0\leq r<n$.
 > Divisores Triviais: 1 e 24.
 > Divisores Não triviais(fatores): 2, 3, 4, 6, 8, 12.
 
+##### Números Primos
+**Definição**:
+- um número é dito primo quando é maior do que 1 e seus divisores são 1 e eles mesmo.
+- um inteiro é $a>1$ é chamado de composto se a não for primo.
+
+>Existem infinitos números primos.
+
+\- Euclides, O Livro dos Elementos, 1782.
+##### Propriedades dos divisores comuns
+Teorema:
+Sejam $a,b,c$ inteiros, com $a\neq 0$, então:
+1. se $a\mid b$ e $a \mid c$ , então $a\mid(b+c)$.
+2. 
