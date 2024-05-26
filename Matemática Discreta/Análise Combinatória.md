@@ -22,7 +22,7 @@ $$
 
 **Problema**: De quantas maneiras diferentes podemos ordenar 5 alunos diferentes em uma fila? 
 **Resposta**: $5 \times 4 \times 3 \times 2 \times 1 = 5! = 120$
-##### Permutações de tamano n
+##### Permutações de tamanho n
 - Dessa forma, temos que a Permutação de P de tamanho $n$ é igual a:
 $$
 P_{n} = n!
