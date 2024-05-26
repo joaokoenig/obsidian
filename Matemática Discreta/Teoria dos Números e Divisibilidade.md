@@ -53,6 +53,25 @@ em que $0\leq r<n$.
 \- Euclides, O Livro dos Elementos, 1782.
 ##### Propriedades dos divisores comuns
 Teorema:
+
 Sejam $a,b,c$ inteiros, com $a\neq 0$, então:
 1. se $a\mid b$ e $a \mid c$ , então $a\mid(b+c)$.
-2. 
+2. se $a\mid b$, então $a \mid b\times c$ para todos os inteiros c.
+3. se $a \mid b$ e $b \mid c$, então $a \mid c$.
+
+Teorema:
+
+Sejam $a,b,d,x,y$ números inteiros com $d\neq 0$. Então se $d\mid a$ e $d \mid b$ então
+$d \mid (a\times x + b\times y)$.
+
+---
+
+### MDC - Máximo Divisor Comum
+**Definição**:
+Sejam a e b números inteiros. Dizemos que o inteiro $d$ é o máximo divisor comum de $a$ e $b$ se:
+1. $d$ é um divisor comum de $a$ e de $b$.
+2. se $e$ também é um divisor comum de $a$ e $b$, então $e \leq d$.
+O máximo divisor comum é denotado mdc$(a,b)$. Esse valor é único para $a$ e $b$.
+
+##### Propriedades do MDC
+- Se $a$ e $b$ não forem nulos $1\leq mdc(a,b)\leq min()$
