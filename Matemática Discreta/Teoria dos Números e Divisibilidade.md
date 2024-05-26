@@ -83,5 +83,11 @@ O máximo divisor comum é denotado mdc$(a,b)$. Esse valor é único para $a$ e 
 ##### Como calcular o mdc?
 Na escola aprendemos a técnica de cálculo de mdc que consiste em:
 - Fatorar os números em seus fatores primos
-- Identificar os fatores primos em comum e seus menores expoentes: 
-- Calcular o mdc
+	- $24 = 2^{3}\times_{3}$ e $30 = 2\times{3}\times{5}$
+- Identificar os fatores primos em comum e seus menores expoentes
+	- os fatores primos comuns são 2 e 3 e os menores expoentes são 1 para 2 e 1 para 3
+- Calcular o mdc:
+	- $mdc(24,30)= 2^1\times 3^1= 6$
+
+_Essa técnica da escola funciona para números pequenos no qual já conhecemos a fatoração prima. Se esse não for o caso, existem técnicas mais eficientes._
+
