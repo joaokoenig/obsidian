@@ -20,4 +20,19 @@ $\frac{11}{3}$?
 
 **Resposta**: Não, pois não existe um número inteiro c tal que $3 \times c = 11$.
 
+_E se a divisão de a/b não resultar em número inteiro?_
+
+##### Teorema da divisão
+Sejam $a,n \in \mathbb{Z}$:
+$$
+a = q \times n + r
+$$
+em que $0\leq r<n$.
+
+- Existe um único par de inteiros que satisfaz essa condição.
+- O inteiro q é chamado de _quociente_ e o inteiro r é _resto_.
+- $q = a \text{ div } n$
+- $r = a\text{ mod }n$
+- $n|a$ se e somente se $a \text{ mod } n = 0$
+
 
