@@ -91,3 +91,10 @@ Na escola aprendemos a técnica de cálculo de mdc que consiste em:
 
 _Essa técnica da escola funciona para números pequenos no qual já conhecemos a fatoração prima. Se esse não for o caso, existem técnicas mais eficientes._
 
+##### Primos entre si
+**Definição**:
+- dois inteiros $a$ e $b$  são ditos primos entre si quando o se o seu único divisor comum é o 1, ou seja, se o seu $mdc$ é igual a 1.
+**Exemplo**:
+- os divisores de $8 = (1,2,4,8)$
+- os divisores de $15 = (1,3,5,15)$
+- o $mdc(8,15)=1$, portanto, 15 e 8 são primos entre si.
