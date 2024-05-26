@@ -41,5 +41,5 @@ em que $0\leq r<n$.
 **Exemplo**: os divisores de 24 = $\{ 1,2,3,4,6,8,12,24 \}$.
 
 > Divisores Triviais: 1 e 24.
-> Divisores Não triviais: 2, 3, 4, 6, 8, 12.
+> Divisores Não triviais(fatores): 2, 3, 4, 6, 8, 12.
 
