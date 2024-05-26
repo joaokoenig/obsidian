@@ -35,4 +35,11 @@ em que $0\leq r<n$.
 - $r = a\text{ mod }n$
 - $n|a$ se e somente se $a \text{ mod } n = 0$
 
+> Todo inteiro b tem divisores triviais 1 e b.
+> Divisores diferentes de 1 e b são chamados de fatores (ou divisores não triviais).
+
+**Exemplo**: os divisores de 24 = $\{ 1,2,3,4,6,8,12,24 \}$.
+
+> Divisores Triviais: 1 e 24.
+> Divisores Não triviais: 2, 3, 4, 6, 8, 12.
 
