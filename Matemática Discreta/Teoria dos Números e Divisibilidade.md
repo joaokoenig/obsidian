@@ -109,5 +109,7 @@ _Essa técnica da escola funciona para números pequenos no qual já conhecemos 
 Repare que $5\mid 4\times 10$.
 Pelo teorema, sabemos que $5\mid 4$ ou $5 \mid 10$.
 Sabemos que nesse caso, $5 \mid 10$.
-**Teorema**:
-- 
+**Teorema Fundamental da Aritmética**:
+- Todo inteiro composto $n$ pode ser escrito exatamente como um produto da forma $n = p_{1}\times p_{2}\times \dots p_{r}$ onde p é um número primo.
+
+_Não existe um algoritmo que gere números primos._
