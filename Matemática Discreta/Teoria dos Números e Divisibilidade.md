@@ -97,4 +97,15 @@ _Essa técnica da escola funciona para números pequenos no qual já conhecemos 
 **Exemplo**:
 - os divisores de $8 = (1,2,4,8)$
 - os divisores de $15 = (1,3,5,15)$
-- o $mdc(8,15)=1$, portanto, 15 e 8 são primos entre si.
+- o $mdc(8,15)=1$, portanto, 15 e 8 são primos entre si
+##### Fatoração única
+**Teorema**:
+- Para todo primo $p$ e $\forall a,b \in \mathbb{Z}$: se $p\mid ab$, então $p\mid a$ ou $p\mid b$ ou ambos
+**Exemplo**:
+- 5 é primo, $a = 4$ e $b=10$
+- Divisores de $4=(1,2,4)$
+- Divisores de $5 = (1,5)$
+- Divisores de $10=(1,2,5,10)$
+Repare que $5\mid 4\times 10$.
+Pelo teorema, sabemos que $5\mid 4$ ou $5 \mid 10$.
+Sabemos que nesse caso, $5 \mid 10$.
