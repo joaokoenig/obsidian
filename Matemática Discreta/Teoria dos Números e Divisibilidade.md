@@ -118,3 +118,9 @@ _Não existe um algoritmo que gere números primos._
 - Sendo $d$ o $mdc(a,b)$, existem números inteiros $x$ e $y$, tais que 
 $d = ax+by$.
 
+##### Algoritmo de Euclides 
+**Teorema**:
+- O Algoritmo de Euclides é baseado no seguinte resultado _recursivo_:
+- Sejam a e b inteiros positivos e $r=a\otimes b$. Então $mdc(a,b)=mdc(b,r)$.
+**Exemplo**:
+- $mdc(30,21)=mdc(21,9)=mdc(9,3)=mdc(3,0)=3$
