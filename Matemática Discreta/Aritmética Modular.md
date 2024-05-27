@@ -32,4 +32,9 @@ Portando, $11+13$ em $\mathbb{Z}_{16}$ é igual a $8$.
 - $(a\times b) \text{ mod }n=[(a\text{ mod }n)\times b\text{ mod }n)]\text{ mod }n$
 ##### Inversa Aditiva
 **Definição**:
-Seja $a in  $
+Seja $a \in\mathbb{Z}_{n}$. A inversa aditiva de $a$ módulo $n$ é um número inteiro $b \in \mathbb{Z}_{n}$ tal que $a+b\equiv 0\text{ mod }n$.
+**Exemplo**:
+- a inversa aditiva de $3$ em $\mathbb{Z}_{7}$ é igual a $4$.
+- a inversa aditiva de $3$ em $\mathbb{Z}_{10}$ é igual a 7.
+- a inversa aditiva de $2$ em $\mathbb{Z}_{3}$ é igual a 1.
+##### Inversa Multiplicativa
