@@ -23,4 +23,13 @@ $17 \equiv 5 \text{ mod }6$ pois $17-5=6\times 2$.
 - Elas funcionam exatamente como nos inteiros, a única diferença é que o resultado é reduzido módulo $n$.
 **Exemplo**:
 $11+13$ em $\mathbb{Z}_{16}$.
-$11+13=24$, depois 
+$11+13=24$, depois reduzimos $24 \text{ mod }16$, onde iremos obter $24\text{ mod }16 = 8$.
+Portando, $11+13$ em $\mathbb{Z}_{16}$ é igual a $8$.
+
+##### Propriedades da Aritmética Modular
+- $(a+b) \text{ mod }n=[(a\text{ mod }n)+(b\text{ mod }n)]\text{ mod }n$
+- $(a-b) \text{ mod }n=[(a\text{ mod }n)-b\text{ mod }n)]\text{ mod }n$
+- $(a\times b) \text{ mod }n=[(a\text{ mod }n)\times b\text{ mod }n)]\text{ mod }n$
+##### Inversa Aditiva
+**Definição**:
+Seja $a in  $
