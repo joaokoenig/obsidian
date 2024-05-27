@@ -124,6 +124,3 @@ $d = ax+by$.
 - Sejam a e b inteiros positivos e $r=a\otimes b$. Então $mdc(a,b)=mdc(b,r)$.
 **Exemplo**:
 - $mdc(30,21)=mdc(21,9)=mdc(9,3)=mdc(3,0)=3$
-##### Algoritmo de Euclides Estendido
-**Teorema**:
-- 

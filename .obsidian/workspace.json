@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
+                "file": "Matemática Discreta/Aritmética Modular.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
+                "file": "Matemática Discreta/Aritmética Modular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
+                "file": "Matemática Discreta/Aritmética Modular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Teoria dos Números e Divisibilidade.md"
+                "file": "Matemática Discreta/Aritmética Modular.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "10a86df2fac31ad4",
   "lastOpenFiles": [
-    "Matemática Discreta/Análise Combinatória.md",
     "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
+    "Matemática Discreta/Aritmética Modular.md",
+    "Matemática Discreta/Análise Combinatória.md",
     "Matemática Discreta/Métodos de Prova.md",
     "Linux/Config Arch Linux.md",
     "Linux/Vim Motions.md",
