@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Cálculo 1/Trabalho 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Cálculo 1/Trabalho 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Cálculo 1/Trabalho 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Relações.md"
+                "file": "Cálculo 1/Trabalho 2.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "10a86df2fac31ad4",
   "lastOpenFiles": [
-    "Matemática Discreta/Aritmética Modular.md",
     "Matemática Discreta/Relações.md",
+    "Cálculo 1/Trabalho 2.md",
+    "Cálculo 1",
+    "Circuitos Digitais/Untitled",
+    "Matemática Discreta/Aritmética Modular.md",
     "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
     "Matemática Discreta/Análise Combinatória.md",
     "Matemática Discreta/Métodos de Prova.md",
@@ -205,8 +208,6 @@
     "Álgebra Linear",
     "Random Thoughts",
     "google.com.md",
-    "Calculus 1/Continuidade de funções.md",
-    "Neovim",
-    "Provas Matemáticas"
+    "Calculus 1/Continuidade de funções.md"
   ]
 }
