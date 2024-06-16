@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "891856bc96e0000e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is the Ondo Project?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ondo Project.md",
+                "file": "What is the Ondo Project?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ondo Project.md",
+                "file": "What is the Ondo Project?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ondo Project.md"
+                "file": "What is the Ondo Project?.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50ff7b30c6321e8f",
+  "active": "891856bc96e0000e",
   "lastOpenFiles": [
-    "Linux/Config Arch Linux.md",
     "Ondo Project.md",
+    "What is the Ondo Project?.md",
+    "Linux/Config Arch Linux.md",
     "Linux/Vim Motions.md",
     "Cálculo 1/Trabalho 2.md",
     "Matemática Discreta/Relações.md",
@@ -219,7 +232,6 @@
     "Circuitos Digitais",
     "Matemática Discreta",
     "Álgebra Linear",
-    "Random Thoughts",
-    "google.com.md"
+    "Random Thoughts"
   ]
 }
