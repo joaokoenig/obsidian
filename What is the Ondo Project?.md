@@ -6,3 +6,7 @@
 6. Technology Explained
 7. Conclusion
 Ondo is a revolutionary project that aims to achieve the merge between DeFi and TradFi (Decentralized Finance and Traditional Finance respectively). It offers products in the RWA market, which stands for Real World Assets. In other terms, it means physical assets that are tokenized and become actives on the blockchain. In the case of Ondo, the project offers products that transform US Treasuries Bonds in tokens. These Tokenized Treasuries Bonds are a new technology and is already gaining the market, going from $100 million dollars to $1 billion dollars in a span of a year. 
+
+These RWA technologies are a rising share of the crypto markets because it allows companies and people to tokenize real life assets and use all the blockchain benefits for it. That means mainly transparency and security. Real World Assets can be car, real state, government bonds and even market stocks.  
+
+One of the main benefits from RWA's is the liquidity, since you can trade 
