@@ -3,3 +3,5 @@ _Key-Words:_
 - Technological Functioning
 - Utility
 - Tokenomics 
+- Conclusion
+- 
