@@ -1,14 +1,11 @@
 1. Ondo Project
-2. OUSG
-3. USDY
-4. RWA
-5. DeFi and TradFi
-6. Tokenomics
-7. US Treasuries Tokenized
-8. Technology Explained
-9. Conclusion
-Ondo is a revolutionary project that aims to achieve the merge between DeFi and TradFi (Decentralized Finance and Traditional Finance respectively). It offers products in the RWA market, which stands for Real World Assets. In other terms, it means physical assets that are tokenized and become actives on the blockchain. In the case of Ondo, the project offers products that transform US Treasuries Bonds in tokens. These Tokenized Treasuries Bonds are a new technology and is already gaining the market, going from $100 million dollars to $1 billion dollars in a span of a year. 
+	- OUSG
+	- USDY
+1. RWA
+2. DeFi and TradFi
+3. Tokenomics
+4. US Treasuries Tokenized
+5. Technology Explained
+6. Conclusion
 
-These RWA technologies are a rising share of the crypto markets because it allows companies and people to tokenize real life assets and use all the blockchain benefits for it. That mainly means transparency and security. Real World Assets can be cars, real state, government bonds, art work, gold and even market stocks.  
-
-One of the main benefits from RWA's is the liquidity, since you can buy and sell assets that when it was outside the blockchain, it would take a much longer time to have it sold or bought.
+Ondo Finance is a project that aims to narrow the gap between DeFi and TradFi (Decentralized Finance and Traditional Finance). Acting and dominating the RWA sector (Real World Assets), Ondo 
