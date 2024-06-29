@@ -41,7 +41,27 @@ _Exemplos de pares em R:_
 (Canoas, Rio Grande do Sul)
 
 **Exemplo 3**:
-Seja $A=B=\{ 1,2,3,4,5 \}$
+Seja $A=B=\{ 1,2,3,4,5 \}$. Define-se a relação R (menor do que) sobre A como:
+
+$(a,b) \in R$ ou $aRb$ se $a<b$.
+
+Nesse caso, temos que $R=\{ (1,2),(1,3),(1,4),(1,5),(2,3),(2,4),(2,5),(3,4),(3,5),(4,5) \}$.
+
+Como $A=B$, podemos dizer que essa é uma relação de A em A.
+
+**Exemplo 4**: 
+
+Seja A o conjunto $\{ 1,2,3,4 \}$. Quais pares ordenados estão na relação $R = \{ (a,b) | a | b\}$? _lê-se "tal que a divide b"._
+
+$R = \{ (1,1), (1,2), (1,3),(1,4),(2,2),(2,4),(3,3),(4,4) \}$.
+
+
+
+
+
+
+
+
 
 
 
