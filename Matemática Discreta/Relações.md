@@ -96,6 +96,30 @@ $R(c)= \{ a,b \}$.
 $R(d)= \{ c \}$.
 
 ##### Definição:
-Seja $R \subseteq $
+Seja $R \subseteq A \times B$ uma relação de A em B e seja, $A_{1} \subseteq A$. O conjunto de **R-relativos de** $A_{1}$ é o conjunto de todos os elementos $y \in B$ que se relacionam em R com os elementos $x \in A_{1}$. Chamamos esse conjunto de $R(A_{1})$.
+
+Ou seja, $R(A_{1})=\{ y \in B | xRy \text{ para algum }x \in A_{1} \}$.
+
+obs: $R(A_{1})$ é a união dos conjuntos de $R(x)$ em que $x \in A_{1}$.
+
+**Exemplo**:
+
+Seja $A=B=\{ a,b,c,d \}$ e seja $R = \{ (a,a),(a,b),(b,c),(c,a), (d,c), (c,b) \}$.
+
+Considere $A_{1}= \{ c,d \}$.
+
+$R(c)=\{ a,b \}$
+
+$R(d)= \{ c \}$.
+
+$R(A_{1})=\{ a,b,c \}=R(c)\cup R(d)$.
+
+##### Operações 
+
+_Teorema:_
+
+
+
+
 
 
