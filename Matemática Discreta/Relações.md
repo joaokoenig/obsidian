@@ -116,7 +116,17 @@ $R(A_{1})=\{ a,b,c \}=R(c)\cup R(d)$.
 
 ##### Operações 
 
-_Teorema:_
+_Teorema:_ Seja $R$ uma relação sobre $A$ e seja $A_{1}$  e $A_{2}$ subconjuntos de $A$. Então:
+
+1. Se $A_{1}\subseteq A_{2}$, então $R(A_{1})\subseteq R(A_{2})$.
+2. $R(A_{1}\cup A_{2})=R(A_{1})\cup R(A_{2})$.
+3. $R(A_{1} \cap A_{2})\subseteq R(A_{1} \cap R(A_{2}))$.
+
+**Exemplo**: 
+
+Seja $A = \{ 1,2,3 \}$, $B = \{ x,y,z,w,p,q \}$, $A_{1}=\{ 1,2 \}$, $A_{2}=\{ 2,3 \}$ e considere $R=\{ (1,x),(1,z),(2,w),(2,p),(2,q),(3,y) \}$.
+
+
 
 
 
