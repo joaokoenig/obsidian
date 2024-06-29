@@ -55,6 +55,9 @@ Seja A o conjunto $\{ 1,2,3,4 \}$. Quais pares ordenados estão na relação $R 
 
 $R = \{ (1,1), (1,2), (1,3),(1,4),(2,2),(2,4),(3,3),(4,4) \}$.
 
+##### Quantas relações podem ser construídas dentro de um conjunto de tamanho n? 
+
+$2^{n^2}$
 
 
 
