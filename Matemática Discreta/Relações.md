@@ -78,11 +78,22 @@ $Dom(R)= \{1,2,3,4\}$.
 
 $Ran(R)= \{2,3,4,5  \}$.
 
+##### Definição: 
+Seja $R \subseteq A \times B$ uma relação de A em B. O conjunto dos **R-relativos** de x é o conjunto de todos os elementos $y \in B$ que se relacionam com x em R. Chamamos esse conjunto de $R(x)$.
 
+Ou seja, $R(x) = \{ y \in B | xRy \}$.
 
+**Exemplo**: 
 
+Seja $A=B=\{ a,b,c,d \}$ e seja $R= \{ (a,a),(a,b),(b,c),(c,a),(d,c),(c,b) \}$.
 
+$R(a)=\{ a,b \}$.
 
+$R(b) = \{ c \}$.
+
+$R(c)= \{ a,b \}$.
+
+$R(d)= \{ c \}$.
 
 
 
