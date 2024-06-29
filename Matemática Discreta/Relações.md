@@ -126,7 +126,23 @@ _Teorema:_ Seja $R$ uma relação sobre $A$ e seja $A_{1}$  e $A_{2}$ subconjunt
 
 Seja $A = \{ 1,2,3 \}$, $B = \{ x,y,z,w,p,q \}$, $A_{1}=\{ 1,2 \}$, $A_{2}=\{ 2,3 \}$ e considere $R=\{ (1,x),(1,z),(2,w),(2,p),(2,q),(3,y) \}$.
 
+$R(A_{1})=\{ x,z,w,p,q \}$.
 
+$R(A_{2})= \{w, p,q,y \}$.
+
+$R(2)= \{ w,p \}$.
+
+$R(A_{1})\cup R(A_{2}))=B$.
+
+$R(A_{1})\cap R(A_{2})=\{w, p,q \}$.
+
+##### Representação com matrizes
+
+**Exemplo**: 
+
+Seja $A = \{ 1,2,3 \}$ e $B = \{ 1,2 \}$. Considere a relação de A em B com pares ordenados $(a,b)$, tal que $a \in A$, $b \in B$, e $a > b$.
+
+$R = $
 
 
 
