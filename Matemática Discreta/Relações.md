@@ -22,4 +22,26 @@ A x B._
 
 **Exemplo 1**: 
 
+Considere o conjunto A com seus elementos sendo os alunos da UFSC e o conjunto B com seus elementos sendo os cursos ofertados pela universidade. Considere a relação R a relação com pares $(a,b)$, onde $a$ é um aluno matriculado e $b$ é um curso.
+
+_Exemplos de pares em R:_
+
+(Matheus, Engenharia Mecânica)
+(Renata, Medicina)
+(Alexandre, Ciências da Computação)
+(José, Farmácia)
+
+**Exemplo 2**:
+
+Considere o conjunto A de todas as cidades do Brasil e o conjunto B sendo os 3 estados da região sul do país. $(a,b) \in R$ se a for uma cidade que está dentro de um dos 3 estados da região sul.
+
+_Exemplos de pares em R:_
+(Florianópolis, SC)
+(Campo Mourão, Paraná)
+(Canoas, Rio Grande do Sul)
+
+**Exemplo 3**:
+Seja $A=B=\{ 1,2,3,4,5 \}$
+
+
 
