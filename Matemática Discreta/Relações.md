@@ -9,4 +9,17 @@ Um par ordenado $(a,b)$ é uma lista de objetos $a$ e $b$ em uma ordem estabelec
 - Se A e B são dois conjuntos não vazios, define-se o produto cartesiano $A\times B= \{ (a,b)| a \in A \text{ e }b \in B \}$
 **Exemplo**: $A = \{ 1,2,3 \}$ e $B = \{ r,s \}$.
 
-$A \times B = \{ (1,r), (1,s), (2,r), (2,s), (3,r), (3) \}$
+$A \times B = \{ (1,r), (1,s), (2,r), (2,s), (3,r), (3,s) \}$
+
+_Sejam A e B conjuntos. Uma relação binária de A em B é um subconjunto de 
+A x B._
+
+- Uma relação binária de A em B é um conjunto R de pares onde o primeiro elemento vem de A e o segundo vem de B.
+- Quando $(a,b) \in R$, diz-se que $a$ está relacionado com $b$ por R.
+- Usamos a notação $aRb$ para denotar que $(a,b) \in R$.
+- Usamos a notação $a\not Rb$ para denotar que $(a,b) \not\in R$.
+- Também existem relações n-árias.
+
+**Exemplo 1**: 
+
+
