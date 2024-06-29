@@ -142,9 +142,25 @@ $R(A_{1})\cap R(A_{2})=\{w, p,q \}$.
 
 Seja $A = \{ 1,2,3 \}$ e $B = \{ 1,2 \}$. Considere a relação de A em B com pares ordenados $(a,b)$, tal que $a \in A$, $b \in B$, e $a > b$.
 
-$R = $
+$R = \{ (2,1), (3,1), (3,2) \}$.
 
+Também podemos representar $R$ com a matriz:
 
+$$M_{R} = 
+\begin{bmatrix}
+0&0 \\
+1&0 \\
+1&1
+\end{bmatrix}
+$$
+
+**Exercício**:
+
+Defina qual a relação da seguinte matriz:
+
+$$
+
+$$
 
 
 
