@@ -180,10 +180,37 @@ _As matrizes precisam ter a mesma ordem para realizar essas operações!_
 
 **Exemplo**: 
 
-Suponha que as relações $R_{1}$ e $R_{2}$ sobre um conjunto A sejam representadas pelas matrizes abaixo. Que matrizes representam $R_{1} \cup R_{2}$ e $R_{1}$
+Suponha que as relações $R_{1}$ e $R_{2}$ sobre um conjunto A sejam representadas pelas matrizes abaixo. Que matrizes representam $R_{1} \cup R_{2}$ e $R_{1}\cap R_{2}$?
 
-
-
+$$
+M_{R_{1}}= \begin{bmatrix}
+1 & 0 & 1 \\
+1 & 0 & 0 \\
+0 & 1 & 0
+\end{bmatrix}
+$$
+$$
+M_{R_{2}}= \begin{bmatrix}
+1 & 0 & 1 \\
+0 & 1 & 1 \\
+1 & 0 & 0
+\end{bmatrix}
+$$
+$$
+M_{R_{1}\cup R_{2}}=
+\begin{bmatrix}
+1 & 0 & 1 \\
+1 & 1 & 1 \\
+1 & 1 & 0
+\end{bmatrix}
+$$
+$$
+M_{R_{1}\cap R_{2}}=\begin{bmatrix}
+1 & 0 & 1 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
 
 
 
