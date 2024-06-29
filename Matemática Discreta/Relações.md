@@ -171,7 +171,18 @@ $R = \{ (a_{1},b_{1}),(a_{1},b_{4}),(a_{2},b_{2}),(a_{2},b_{3}),(a_{3},b_{1}),(a
 
 ##### Operações com matrizes
 
-Considere $R_{1}$ e $R_{2}$ relações 
+- Considere $R_{1}$ e $R_{2}$ relações sobre o conjunto A representadas por matrizes $M_{R_{1}}$ e $M_{R_{2}}$.
+- Operações de união e intersecção entre $R_{1}$ e $R_{2}$ podem ser representadas por operações booleanas nas matrizes correspondentes.
+- $M_{R_{1}\cup R_{2}}= M_{R_{1}} \cup M_{R_{2}}$.
+- $M_{R_{1}\cap R_{2}}= M_{R_{1}}\cap M_{R_{2}}$.
+
+_As matrizes precisam ter a mesma ordem para realizar essas operações!_
+
+**Exemplo**: 
+
+Suponha que as relações $R_{1}$ e $R_{2}$ sobre um conjunto A sejam representadas pelas matrizes abaixo. Que matrizes representam $R_{1} \cup R_{2}$ e $R_{1}$
+
+
 
 
 
