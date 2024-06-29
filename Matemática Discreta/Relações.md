@@ -95,6 +95,7 @@ $R(c)= \{ a,b \}$.
 
 $R(d)= \{ c \}$.
 
-
+##### Definição:
+Seja $R \subseteq $
 
 
