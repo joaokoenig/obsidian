@@ -59,6 +59,25 @@ $R = \{ (1,1), (1,2), (1,3),(1,4),(2,2),(2,4),(3,3),(4,4) \}$.
 
 $2^{n^2}$
 
+### Conjuntos Originados de Relações
+
+Seja $R \subseteq A \times B$ uma relação de A em B. Definimos:
+
+**Domínio**: Dom(R), o conjunto de elementos de A que estão relacionados com algum elemento em B.
+
+**Contradomínio**: Ran(R), o conjunto de elementos de B que estão relacionados com algum elemento em A. 
+
+**Exemplo**: 
+
+Considere a relação R sobre $A = \{ 1,2,3,4,5 \}$ dada por $aRb$ se e somente se 
+$a<b$. Descreva R, Dom(R) e Ran(R):
+
+$R = \{ (1,2),(1,3),(1,4),(1,5),(2,3),(2,4),(2,5),(3,4),(3,5),(4,5) \}$.
+
+$Dom(R)= \{1,2,3,4\}$.
+
+$Ran(R)= \{2,3,4,5  \}$.
+
 
 
 
