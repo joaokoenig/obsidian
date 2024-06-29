@@ -158,9 +158,21 @@ $$
 
 Defina qual a relação da seguinte matriz:
 
+$$ M =
+\begin{bmatrix}
+1 & 0 & 0 & 1 \\
+0 & 1 & 1 & 0 \\
+1 & 0 & 1 & 0
+\end{bmatrix}
 $$
+Podemos definir essa relação $R$ como sendo: 
 
-$$
+$R = \{ (a_{1},b_{1}),(a_{1},b_{4}),(a_{2},b_{2}),(a_{2},b_{3}),(a_{3},b_{1}),(a_{3},b_{3}) \}$
+
+##### Operações com matrizes
+
+Considere $R_{1}$ e $R_{2}$ relações 
+
 
 
 
