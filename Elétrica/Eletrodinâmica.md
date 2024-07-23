@@ -37,4 +37,15 @@ Por serem mais massivos e estarem no núcleo, os prótons e os nêutrons estão 
 
 Assim, se um corpo _perde elétrons_, ele fica elétricamente _positivo_. E se um corpo _ganha elétrons_, fica elétricamente _negativo_. 
 
-- $n_{e}=n_{}$
+- Se $n_{e}=n_{p}$ , então o corpo é elétricamente neutro.
+- Se $n_{e} < n_{p}$ , então o corpo é elétricamente positivo (cedeu elétrons).
+- Se $n_{e} > n_{p}$ , então o corpo é elétricamente negativo (recebeu elétrons).
+
+_Obs: quando um corpo está neutro, não significa que não possui carga elétrica_.
+
+Em um **sistema isolado**, para que um corpo _perca_ elétrons, outro deve _ganhar_ a mesma quantidade de elétrons, ou seja, a quantidade total de elétrons no sistema permanece **constante**. 
+
+Isso traduz uma importante lei da natureza: 
+
+**A lei da conservação da quantidade de carga elétrica**.
+
