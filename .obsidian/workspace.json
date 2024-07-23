@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Elétrica/Eletrodinâmica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Elétrica/Eletrodinâmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Relações.md",
+                "file": "Elétrica/Eletrodinâmica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Relações.md"
+                "file": "Elétrica/Eletrodinâmica.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "81d5b438e87bc833",
   "lastOpenFiles": [
+    "Matemática Discreta/Relações.md",
+    "Elétrica/Eletrodinâmica.md",
+    "Elétrica",
     "Matemática Discreta/Métodos de Prova.md",
     "Matemática Discreta/Lógica de Predicados.md",
     "Matemática Discreta/Indução e Recursão.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
-    "Matemática Discreta/Relações.md",
     "Linux/Config Arch Linux.md",
     "What is the Ondo Project?.md",
     "Ondo Project.md",
@@ -179,10 +181,8 @@
     "Chess/Openings and defenses.md",
     "Chess",
     "Random Thoughts/reasoning.md",
-    "Random Thoughts/some reason.md",
     "Circuitos Digitais",
     "Matemática Discreta",
-    "Álgebra Linear",
-    "Random Thoughts"
+    "Álgebra Linear"
   ]
 }
