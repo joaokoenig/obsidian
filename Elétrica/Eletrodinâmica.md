@@ -25,6 +25,16 @@ Nessas condições, podemos escrever que a quantidade de carga do elétron e do 
 
 | Partícula | Massa(kg)           | Quantidade de carga elétrica (C) |
 | --------- | ------------------- | -------------------------------- |
-| Elétron   | $9.1\cdot 10^{-31}$ |                                  |
-| Próton    | $1.7\cdot 10^{-27}$ |                                  |
-| Nêutron   | $1.7\cdot 10^{-27}$ |                                  |
+| Elétron   | $9.1\cdot 10^{-31}$ | $e =-1.6\cdot 10^{-19}$<br>      |
+| Próton    | $1.7\cdot 10^{-27}$ | $e =1.6\cdot 10^{-19}$           |
+| Nêutron   | $1.7\cdot 10^{-27}$ | 0                                |
+
+##### Conservação da quantidade de carga elétrica
+
+Na natureza, os corpos tendem a ser neutros, ou seja, têm o mesmo número de prótons, elétrons e nêutrons, mas, em algumas  situações, podem ficar eletrizados.
+
+Por serem mais massivos e estarem no núcleo, os prótons e os nêutrons estão "presos" e somente os elétrons podem ser adicionados ou retirados com facilidade. 
+
+Assim, se um corpo _perde elétrons_, ele fica elétricamente _positivo_. E se um corpo _ganha elétrons_, fica elétricamente _negativo_. 
+
+- $n_{e}=n_{}$
