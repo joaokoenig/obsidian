@@ -49,3 +49,12 @@ Isso traduz uma importante lei da natureza:
 
 **A lei da conservação da quantidade de carga elétrica**.
 
+##### Quantização da quantidade de carga elétrica
+
+Tendo em vista que a menor quantidade de carga elétrica é igual a $e$, podemos assumir que a carga elétrica de um corpo é um valor múltiplo de $e$. 
+
+Isto é, um corpo com carga elétrica positiva só pode assumir valores como:
+
+$1 \cdot e$, $2 \cdot e$, $3\cdot e$ e assim por diante (n = número inteiro).
+
+e um corpo com carga elétrica negativa 
