@@ -1,0 +1,6 @@
+- [ ]  Dropdown selector
+- [ ]  React Routing
+- [ ]  API usage
+- [ ] Login test
+- [ ] Deposit test
+- [ ] Transfer test

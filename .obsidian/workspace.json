@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Linux/desafio estágio/To Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Linux/desafio estágio/To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Linux/desafio estágio/To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md"
+                "file": "Linux/desafio estágio/To Do.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "81d5b438e87bc833",
   "lastOpenFiles": [
-    "Matemática Discreta/Relações.md",
     "Elétrica/Eletrodinâmica.md",
+    "Linux/desafio estágio/To Do.md",
+    "Linux/desafio estágio",
+    "Matemática Discreta/Relações.md",
     "Elétrica",
     "Matemática Discreta/Métodos de Prova.md",
     "Matemática Discreta/Lógica de Predicados.md",
@@ -180,9 +182,7 @@
     "Calculus 1/Testing.md",
     "Chess/Openings and defenses.md",
     "Chess",
-    "Random Thoughts/reasoning.md",
     "Circuitos Digitais",
-    "Matemática Discreta",
-    "Álgebra Linear"
+    "Matemática Discreta"
   ]
 }
