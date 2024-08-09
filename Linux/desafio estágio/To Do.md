@@ -1,4 +1,4 @@
-- [ ]  Dropdown selector
+- [x]  Dropdown selector
 - [ ]  React Routing
 - [ ]  API usage
 - [ ] Login test
