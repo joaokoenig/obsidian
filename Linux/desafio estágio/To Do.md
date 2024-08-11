@@ -20,4 +20,13 @@ depende dos endpoints:
 - consumir API de exchange
 - subir banco de dados e criação de tabelas no docker
 - cadastrar usuário hardcoded
-\
+
+### Banco de Dados:
+**Usuário**:
+- username
+- password
+- saldo
+**Saldo**:
+- real
+- dolar
+- euro
