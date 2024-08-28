@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e Estatística/Notas.md",
+                "file": "Redes II/Introdução à Rede de Computadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6266951a02cbcc56",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e Estatística/Notas.md",
+                "file": "Redes II/Introdução à Rede de Computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidade e Estatística/Notas.md",
+                "file": "Redes II/Introdução à Rede de Computadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidade e Estatística/Notas.md"
+                "file": "Redes II/Introdução à Rede de Computadores.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   "active": "04ae30c945db6058",
   "lastOpenFiles": [
     "Probabilidade e Estatística/Notas.md",
+    "Redes II/Introdução à Rede de Computadores.md",
+    "Redes II",
     "Probabilidade e Estatística",
     "Matemática Discreta/Métodos de Prova.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
@@ -180,10 +181,8 @@
     "Calculus 1/Testing.md",
     "Chess/Openings and defenses.md",
     "Chess",
-    "Random Thoughts/reasoning.md",
     "Circuitos Digitais",
     "Matemática Discreta",
-    "Álgebra Linear",
-    "Random Thoughts"
+    "Álgebra Linear"
   ]
 }
