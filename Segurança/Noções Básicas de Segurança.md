@@ -7,4 +7,28 @@
 **Segurança x Safety**
 
 ##### Conhecendo o adversário:
-- Segurança em computação estu
+- Segurança em computação estuda como sistemas computacionais se comportam na presença de um adversário.
+- Nós consideramos este adversário como inteligente.
+
+##### Para ganhar devemos conhecer o adversário:
+- Quais os motivos para sermos atacados?
+- Quais as capacidades do atacante?
+- O que ele sabe de antemão?
+- Quais os pontos fracos da minha estrutura?
+- Quem pode ser o atacante?
+- Qual o nível de acesso dele?
+- Quais medidas posso tomar?
+- Deu ruim! O que faço para continuar?
+- Como eu desvendo exatamente o que aconteceu?
+
+
+##### A forma de pensar em segurança:
+- Pensando como um **atacante**:
+	- Entender as técnicas para contornar a segurança.
+	- Procurar formas como o mecanismo de segurança pode quebrar.
+- Pensando como um **defensor**:
+	- Entenda o que voce está defendendo e contra quem.
+	- Leve em conta o *custo x benefício*.
+	- Nenhum sistema é seguro para sempre.
+	- Tenha um certo grau de paranóia.
+
