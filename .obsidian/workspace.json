@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md"
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "04ae30c945db6058",
   "lastOpenFiles": [
-    "Probabilidade e Estatística/Notas.md",
     "Redes II/Introdução à Rede de Computadores.md",
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Redes II",
     "Probabilidade e Estatística",
     "Matemática Discreta/Métodos de Prova.md",

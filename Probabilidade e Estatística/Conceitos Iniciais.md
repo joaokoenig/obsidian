@@ -1,0 +1,2 @@
+- Origem da estatística remontam à antiguidade, quando dados eram coletados para fins administrativos e fiscais.
+- 
