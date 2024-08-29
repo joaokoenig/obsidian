@@ -4,5 +4,5 @@
   "baseFontSize": 18,
   "translucency": true,
   "theme": "obsidian",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono,FreeSans,Inter"
+  "textFontFamily": "Inter,JetBrainsMono Nerd Font Mono,FreeSans"
 }

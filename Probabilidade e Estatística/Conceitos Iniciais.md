@@ -30,14 +30,14 @@ Na amostragem **probabilística** todos os membros da população tem chances de
 - O viés de sobrevivência refere-se a tendência de concentramos nos casos de sucesso, ignorando as falhas. 
 
 ### Parâmetro:
-- Característica númerica que se calcularia a partir da população e que descreve uma característica de interesse.
+- Característica numérica que se calcularia a partir da população e que descreve uma característica de interesse.
 - Valor fixo e desconhecido.
 ### Estimativa:
-- Característica númerica que é calculada a partir da amostra (valor), por meio de um estimador (fórmula).
+- Característica numérica que é calculada a partir da amostra (valor), por meio de um estimador (fórmula).
 - Valor variável e conhecido. (depende da amostra obtida)
 
 ### Tipos de Amostragem Probabilística:
 1. Aleatória Simples
-2. Estratificada
-3. Sistemática
+2. Aleatória Estratificada
+3. Aleatória Sistemática
 
