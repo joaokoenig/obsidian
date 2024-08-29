@@ -20,3 +20,11 @@ _Estatística é a ciência que permite obter conclusões a partir de dados._
 
 **Amostragem Probabilística x Amostragem Não Probabilística**
 
+Na amostragem **não probabilística** os indivíduos da população não tem chance iguais de serem selecionados. Isso pode levar em **viés** nos resultados, mas é útil em diversas situações onde rapidez e facilidade é mais importante que a precisão dos resultados.
+
+**Exemplo:** Pessoas com câncer que ainda não sabem que possuem muito provavelmente não serão selecionados em amostras onde a população são de pessoas com câncer.
+
+Na amostragem **probabilística** todos os membros da população tem chances de serem selecionados para a amostragem.
+
+##### Viés de Sobrevivência:
+- O viés de sobrevivência refere-se a tendência de concentramos nos casos de sucesso, ignorando as falhas. 
