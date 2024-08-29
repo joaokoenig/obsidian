@@ -39,3 +39,9 @@
 - Nos ajuda a projetas sistemas mais robustos em termos de segurança.
 - Nos ajuda a avaliar mais o risco a que estamos sujeitos.
 
+##### Pensando como atancante:
+- Procure o elo mais fraco. Ele é mais fácil de atacar.
+- Identifique as suposições que o mecanismo de segurança depende. Da para tomar essas suposições falsas?
+- Pense fora da caixinha: não se atenha a forma de pensar de quem projetou o sistema.
+- Pratique pensar como atancante: Para cada sistema que você for usar pense o que significa ele ser seguro e como você poderia fazer para ele não ser.
+
