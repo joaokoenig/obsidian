@@ -71,4 +71,29 @@
 	- Privacidade.
 	- Autenticidade.
 
-##### Modelos de am
+##### Avaliando os riscos:
+- O que uma invasão vai nos custar?
+	- Custo direto:
+		- Dinheiro
+		- Propriedade
+		- Proteção
+	- Custo indireto:
+		- Reputação
+		- Negócios Futuros
+		- Bem Estar
+- Qual a probabilidade destes custos?
+	- Qual a probabilidade de um ataque?
+	- Qual a probabilidade de sucesso?
+
+##### Contramedidas:
+- Técnicas:
+	- Software
+	- Hardware
+- Não técnicas:
+	- Procedimentos legais
+	- Treinamento
+	- Auditoria
+	- Incentivos
+
+
+##### Custo das medidas de segurança:
