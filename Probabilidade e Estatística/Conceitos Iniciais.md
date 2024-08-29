@@ -38,6 +38,13 @@ Na amostragem **probabilística** todos os membros da população tem chances de
 
 ### Tipos de Amostragem Probabilística:
 1. Aleatória Simples
-2. Aleatória Estratificada
-3. Aleatória Sistemática
+2. Estratificada
+3. Sistemática
 
+##### Variável de Interesse:
+- É a característica que será observada em cada indivíduo da amostra.
+- Em um mesmo estudo podem ser avaliadas/coletadas diferentes variáveis de interesse.
+
+##### Tipos de variáveis:
+1. Qualitativa 
+2. Quantitativa
