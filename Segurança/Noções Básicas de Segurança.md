@@ -4,3 +4,7 @@
 - Filosofia?
 - Ciências Naturais?
 
+**Segurança x Safety**
+
+##### Conhecendo o adversário:
+- Segurança em computação estu
