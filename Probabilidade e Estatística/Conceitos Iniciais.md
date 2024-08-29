@@ -46,5 +46,9 @@ Na amostragem **probabilística** todos os membros da população tem chances de
 - Em um mesmo estudo podem ser avaliadas/coletadas diferentes variáveis de interesse.
 
 ##### Tipos de variáveis:
-1. Qualitativa 
+1. Qualitativa
+	- Nominal
+	- Ordinal
 2. Quantitativa
+	- Discreta
+	- Contínua
