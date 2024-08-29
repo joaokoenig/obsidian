@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "04ae30c945db6058",
   "lastOpenFiles": [
-    "Untitled.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "Segurança/Noções Básicas de Segurança.md",
+    "Segurança",
+    "Untitled.md",
     "Redes II/Introdução à Rede de Computadores.md",
     "Redes II",
     "Probabilidade e Estatística",
@@ -179,10 +181,8 @@
     "Matemática Discreta/Lógica de Predicados.md",
     "2024-03-20.md",
     "Testing",
-    "Calculus 1/Testing.md",
     "Chess",
     "Circuitos Digitais",
-    "Matemática Discreta",
-    "Álgebra Linear"
+    "Matemática Discreta"
   ]
 }
