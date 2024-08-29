@@ -13,4 +13,10 @@ _Avaliar evidências empíricas sob hipóteses de interesse._
 
 _Estatística é a ciência que permite obter conclusões a partir de dados._
 
+##### Censo:
+- Coleta de dados de toda a população.
+- Frequentemente caro e demorado.
+- Amostragem é mais econômica e mais rápida. Técnica fundamental na coleta de dados na pesquisa e análise.
+
+**Amostragem Probabilística x Amostragem Não Probabilística**
 
