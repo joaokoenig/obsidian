@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2699411bede306dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md"
+                "file": "To-Do.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04ae30c945db6058",
+  "active": "2699411bede306dd",
   "lastOpenFiles": [
-    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança/Noções Básicas de Segurança.md",
+    "To-Do.md",
+    "Untitled",
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança",
-    "Untitled.md",
     "Redes II/Introdução à Rede de Computadores.md",
     "Redes II",
     "Probabilidade e Estatística",
@@ -179,10 +193,8 @@
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Matemática Discreta/Indução e Recursão.md",
     "Matemática Discreta/Lógica de Predicados.md",
-    "2024-03-20.md",
     "Testing",
     "Chess",
-    "Circuitos Digitais",
-    "Matemática Discreta"
+    "Circuitos Digitais"
   ]
 }

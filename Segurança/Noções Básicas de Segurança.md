@@ -32,3 +32,10 @@
 	- Nenhum sistema é seguro para sempre.
 	- Tenha um certo grau de paranóia.
 
+##### Porque estudar ataques?
+- Ajudar a identificar vulnerabilidades para corrigir e estabelecer novas defesas.
+- Criar incentivos para todos serem mais cuidadosos no futuro.
+- Aprender sobre diferentes classes de ameaças.
+- Nos ajuda a projetas sistemas mais robustos em termos de segurança.
+- Nos ajuda a avaliar mais o risco a que estamos sujeitos.
+
