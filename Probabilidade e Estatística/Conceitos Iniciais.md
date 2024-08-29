@@ -52,3 +52,11 @@ Na amostragem **probabilística** todos os membros da população tem chances de
 2. Quantitativa
 	- Discreta
 	- Contínua
+
+##### Tabela de Frequência:
+- **Frequência**: quantidade de vezes que um valor ou um subconjuntos de valores aparece. 
+- Tem por objetivo facilitar a visualização de dados.
+- Pode ser: tabela de frequência simples ou tabela de frequência com intervalos nas classes.
+
+##### Tabela de Contingência:
+- Uma tabela de contingência é uma tabela de dupla entrada em que os elementos da amostra ou da população são classificados de acordo com dois fatores.
