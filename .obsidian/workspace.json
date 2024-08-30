@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "2699411bede306dd",
   "lastOpenFiles": [
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança/Noções Básicas de Segurança.md",
     "To-Do.md",
     "Untitled",
-    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança",
     "Redes II/Introdução à Rede de Computadores.md",
     "Redes II",
