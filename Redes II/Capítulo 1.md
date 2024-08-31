@@ -9,9 +9,15 @@
 	3. Entretenimento interativo.
 	4. Comércio Eletrônico.
 
+##### Protocolo de redes
+- Protocolo define o formato e a ordem das mensagens trocadas entre duas ou mais entidades comunicantes, bem como as ações realizadas na transmissão e/ou no recebimento de uma mensagem ou outro evento.
 
 ##### Classificação de Redes
 - **Redes Confinadas**: Redes são ditas confinadas quando as distâncias entre os módulos processadores são menores que alguns poucos metros.
 - **Redes Locais**: Cobre uma ou várias construções localizadas em um mesmo campus. Permite a interconexão de equipamentos de comunicação de dados numa pequena região que são *distâncias* entre *100m e 25km*.
 - **Redes Metropolitanas**: Cobrem uma cidade com *distâncias* abaixo de *200km*. Necessita a intervenção de operadoras públicas.
-- **Redes de Longa Distância**: Necessita de intervenção de operadoras públicas. 
+- **Redes de Longa Distância**: Necessita de intervenção de operadoras públicas. Face a várias considerações em relação ao custo. 
+
+##### O que é a internet?
+- **Hosts e sistemas finais**: Estações de trabalho, servidores, celulares, microondas rodando aplicações de rede.
+- **Enlaces**: Canais de comunicação como *fibra, par trançado, rádio, satélite*.

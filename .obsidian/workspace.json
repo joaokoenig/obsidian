@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Redes II/Capítulo 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Redes II/Capítulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md",
+                "file": "Redes II/Capítulo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes II/Introdução à Rede de Computadores.md"
+                "file": "Redes II/Capítulo 1.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2699411bede306dd",
+  "active": "e4ad8ca0e2246e6e",
   "lastOpenFiles": [
     "To-Do.md",
-    "Redes II/Introdução à Rede de Computadores.md",
+    "Redes II/Capítulo 1.md",
     "Segurança/Noções Básicas de Segurança.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Untitled",
