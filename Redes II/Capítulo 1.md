@@ -19,5 +19,21 @@
 - **Redes de Longa Distância**: Necessita de intervenção de operadoras públicas. Face a várias considerações em relação ao custo. 
 
 ##### O que é a internet?
-- **Hosts e sistemas finais**: Estações de trabalho, servidores, celulares, microondas rodando aplicações de rede.
+- **Hosts e sistemas finais**: *Estações de trabalho, servidores, celulares, microondas* rodando aplicações de rede.
 - **Enlaces**: Canais de comunicação como *fibra, par trançado, rádio, satélite*.
+- **Roteadores**: Encaminham *pacotes de dados* através da rede.
+- **ISP**: Provedores de serviços de internet.
+
+Protocolos controlam o envio e recepção de mensagens. 
+Exemplo:
+
+>TCP, IP, HTTP, FTP, PPP
+
+**Internet**: rede de redes.
+- Livremente hieráquica.
+- Internet pública vs intranet privada.
+
+**A infraestrutura de comunicação dá suporte às aplicações distribuídas**: 
+
+> WWW, email, jogos, comércio eletrônico, compartilhamento de arquivos.
+
