@@ -2,11 +2,12 @@
 - [ ] Leitura Computer Networks - Tanenbaum
 - [ ] Fazer lista de exercícios POOII
 - [ ] Terminar Landing Page **Unicor**
-- [ ] Revisar no obsidian aula 2 Redes II
 - [ ] Devolução Livros UFSC **12/09**
 
 
-
+##### Revisões das aulas
+- [ ] Redes II - Capítulo 1
+- [ ] Prob e Est - Conceitos Iniciais
 
 
 
