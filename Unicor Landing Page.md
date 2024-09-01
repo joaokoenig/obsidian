@@ -1,1 +1,2 @@
-- [ ] Pesquisar sobre cada seção da página como Sobre, Valores, Parceiros e etc. Pegar referências e pedir para o chatgpt fazer parecido.
+- [ ] Pesquisar sobre cada seção da página como Sobre, Valores, Parceiros e etc. 
+- [ ] Pedir para o chatgpt fazer os textos das seções com base nas referências.
