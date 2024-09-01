@@ -80,3 +80,13 @@ _Serviço orientado a conexões._
 **Aplicações que usam UDP**: 
 - Streaming media, teleconferência, telefonia e internet.
 
+##### Núcleo da rede
+**Malha de roteadores interconectados**: 
+- Responsáveis por encaminhar dados da origem ao destino
+- *Comutação*: Processo de alocação de recursos para a transmissão.
+
+**Tipos de comutação**: 
+- Comutação de mensagens.
+- Comutação de pacotes.
+- Comutação de circuitos (i.e rede telefônica).
+
