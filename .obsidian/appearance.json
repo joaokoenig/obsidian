@@ -3,6 +3,6 @@
   "cssTheme": "Blue Topaz",
   "baseFontSize": 18,
   "translucency": true,
-  "theme": "obsidian",
+  "theme": "system",
   "textFontFamily": "Inter,JetBrainsMono Nerd Font Mono,FreeSans"
 }
