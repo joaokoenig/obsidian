@@ -90,3 +90,9 @@ _Serviço orientado a conexões._
 - Comutação de pacotes.
 - Comutação de circuitos (i.e rede telefônica).
 
+**Comutação de mensagens**: 
+- Dado é enviado em uma única mensagem ao longo de uma rota da fonte ao destino. 
+- Cada mensagem usa toda a banda disponível ao ser transmitida. 
+- Em cada nó do caminho, a mensagem é primeiro armazenada e depois passa para frente assim que o próximo nó do canal de transmissão estiver disponível.
+- Mensagem pode monopolizar o enlace por muito tempo. 
+- Provoca grandes atrasos de transmissão de outras mensagens. 
