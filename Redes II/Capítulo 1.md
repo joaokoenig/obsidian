@@ -37,4 +37,22 @@ Exemplo:
 
 > WWW, email, jogos, comércio eletrônico, compartilhamento de arquivos.
 
-##### Borda da 
+**Borda da rede**:
+-  Aplicações e hospedeiros (*hosts*)
+**Núcleo da rede**:
+- Roteadores
+- Rede de redes
+**Rede de acesso**:
+- Enlaces de comunicação
+
+##### Borda da rede:
+- **Sistemas finais (hosts)**: Rodam programas de aplicação como por exemplo: world wide web, email e etc.
+- **Modelo Cliente / Servidor**: Host cliente faz pedidos que são atendidos pelos servidores:  Browser (host cliente) <-> Servidor 
+- **Modelo Peer to Peer**
+
+_Serviço orientado a conexões._
+
+**Objetivo**: Transferência de dados entre sistemas finais.
+
+**Handshaking**: Inicialização para a transferência de dados.
+- Alô -> Olá
