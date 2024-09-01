@@ -6,7 +6,7 @@
 
 
 ##### Revisões das aulas
-- [ ] Redes II - Capítulo 1
+- [x] Redes II - Capítulo 1
 - [ ] Prob e Est - Conceitos Iniciais
 
 
