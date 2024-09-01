@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "To-Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes II/Capítulo 1.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           }
@@ -159,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2699411bede306dd",
+  "active": "04ae30c945db6058",
   "lastOpenFiles": [
-    "Segurança/Noções Básicas de Segurança.md",
-    "Redes II/Capítulo 1.md",
-    "Unicor Landing Page.md",
     "To-Do.md",
+    "Redes II/Capítulo 1.md",
+    "Segurança/Noções Básicas de Segurança.md",
+    "Unicor Landing Page.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Untitled",
     "Segurança",
