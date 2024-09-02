@@ -75,3 +75,15 @@ $S = \overline{A\cdot B}$
 **Entradas**: A e B
 **Saída**: S
 
+##### Porta NOR
+
+$S = \overline{A+B}$
+
+
+| A   | B   | S   |
+| --- | --- | --- |
+| 0   | 0   | 1   |
+| 0   | 1   | 0   |
+| 1   | 0   | 0   |
+| 1   | 1   | 0   |
+
