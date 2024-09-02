@@ -11,8 +11,12 @@
             "id": "a307f2d6b95e0b46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md"
+              }
             }
           }
         ]
@@ -140,6 +148,11 @@
   },
   "active": "a307f2d6b95e0b46",
   "lastOpenFiles": [
+    "Circuitos Digitais/Operações com Números Binários.md",
+    "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
+    "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+    "Circuitos Digitais/Sistemas de numeração.md",
+    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Segurança/Noções Básicas de Segurança.md",
     "To-Do.md",
     "Redes II/Capítulo 1.md",
@@ -165,14 +178,9 @@
     "Config Arch Linux.md",
     "conflict-files-obsidian-git.md",
     "Testing/testing.md",
-    "Circuitos Digitais/Circuitos Mais Complexos.md",
     "Matemática Discreta/Lógica Proposicional.md",
-    "Circuitos Digitais/Operações com Números Binários.md",
-    "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
     "Circuitos Digitais/Sistemas de Numeração.md",
-    "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Matemática Discreta/Indução e Recursão.md",
-    "Matemática Discreta/Lógica de Predicados.md",
     "Testing",
     "Chess",
     "Circuitos Digitais"
