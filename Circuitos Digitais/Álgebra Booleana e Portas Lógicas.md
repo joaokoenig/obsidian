@@ -47,4 +47,31 @@ $A \cdot B$
 **Entradas**: A e B 
 **Saída**: S
 
-##### Po
+##### Porta NOT 
+
+not $A$
+$\neg A$
+$\bar{A}$
+
+
+|  A  |  S  |
+| :-: | :-: |
+|  0  |  1  |
+|  1  |  0  |
+**Entrada**: A
+**Saída**: S
+
+##### Porta NAND 
+
+$S = \overline{A\cdot B}$
+
+
+| A   | B   | S   |
+| --- | --- | --- |
+| 0   | 0   | 1   |
+| 0   | 1   | 1   |
+| 1   | 0   | 1   |
+| 1   | 1   | 0   |
+**Entradas**: A e B
+**Saída**: S
+
