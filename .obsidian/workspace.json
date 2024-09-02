@@ -146,19 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a307f2d6b95e0b46",
+  "active": "e4ad8ca0e2246e6e",
   "lastOpenFiles": [
+    "Circuitos Digitais/images",
+    "Untitled",
+    "Circuitos Digitais/images/exercicio2.1.png",
+    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Circuitos Digitais/Sistemas de numeração.md",
-    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Segurança/Noções Básicas de Segurança.md",
     "To-Do.md",
     "Redes II/Capítulo 1.md",
     "Unicor Landing Page.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
-    "Untitled",
     "Segurança",
     "Redes II",
     "Probabilidade e Estatística",
@@ -180,7 +182,6 @@
     "Testing/testing.md",
     "Matemática Discreta/Lógica Proposicional.md",
     "Circuitos Digitais/Sistemas de Numeração.md",
-    "Matemática Discreta/Indução e Recursão.md",
     "Testing",
     "Chess",
     "Circuitos Digitais"

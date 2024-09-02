@@ -90,6 +90,8 @@ $S = \overline{A+B}$
 
 **Execício 2.1 Aula**:
 
+![[exercicio2.1.png]]
+
 | $\neg A$ |  B  |  C  | $\neg A\cdot B$ | $B\cdot C$ |  S  |
 | :------: | :-: | :-: | :-------------: | :--------: | :-: |
 |    1     |  0  |  0  |        0        |     0      |  0  |
