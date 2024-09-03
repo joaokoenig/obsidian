@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c932476ad112c571",
   "lastOpenFiles": [
-    "To-Do.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "To-Do.md",
     "Unicor Landing Page.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/images",

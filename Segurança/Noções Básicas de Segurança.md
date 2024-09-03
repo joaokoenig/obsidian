@@ -96,4 +96,3 @@
 	- Incentivos
 
 
-##### Custo das medidas de segurança:
