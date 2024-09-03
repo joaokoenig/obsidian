@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do.md"
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "c932476ad112c571",
   "lastOpenFiles": [
+    "To-Do.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Unicor Landing Page.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
@@ -159,7 +160,6 @@
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Segurança/Noções Básicas de Segurança.md",
-    "To-Do.md",
     "Redes II/Capítulo 1.md",
     "Segurança",
     "Redes II",

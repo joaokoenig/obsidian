@@ -44,6 +44,8 @@ Na amostragem **probabilística** todos os membros da população tem chances de
 ##### Variável de Interesse:
 - É a característica que será observada em cada indivíduo da amostra.
 - Em um mesmo estudo podem ser avaliadas/coletadas diferentes variáveis de interesse.
+**Dado**: é a informação coletada e registrada com base na variável de interesse. 
+Altura é uma variável de interesse, *1.87* é um dado que foi coletado na pesquisa com base na variável.
 
 ##### Tipos de variáveis:
 1. Qualitativa
