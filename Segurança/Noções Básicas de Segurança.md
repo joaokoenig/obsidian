@@ -96,3 +96,14 @@
 	- Incentivos
 
 
+##### Custo das medidas de segurança:
+- Nada que vai te deixar mais seguro é de graça.
+- **Custos diretos**:
+	- Projeto
+	- Implementação
+	- Execução
+	- Falsos Positivos
+	- Perda de produtividade
+	- Adição de complexidade
+- Um grande desafio é balancear *custo x risco*.
+	- A natureza humana torna difícil avaliar eventos de alto custo e baixa probabilidade.
