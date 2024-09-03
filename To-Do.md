@@ -1,9 +1,7 @@
-- [ ] Leitura Introdução à Estatística com R
-- [ ] Leitura Computer Networks - Tanenbaum
 - [ ] Fazer lista de exercícios POOII
-- [ ] Terminar Landing Page **Unicor**
 - [ ] Devolução Livros UFSC **12/09**
-
+- [ ] [Curso de introdução à R](https://youtu.be/_V8eKsto3Ug?si=Wg5U_457l8QOsA-L)
+- [ ] Leitura *Introdução à R*
 
 ##### Revisões das aulas
 - [x] Redes II - Capítulo 1
