@@ -62,3 +62,5 @@ Altura é uma variável de interesse, *1.87* é um dado que foi coletado na pesq
 
 ##### Tabela de Contingência:
 - Uma tabela de contingência é uma tabela de dupla entrada em que os elementos da amostra ou da população são classificados de acordo com dois fatores.
+
+
