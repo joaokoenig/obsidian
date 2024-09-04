@@ -10,5 +10,6 @@
 
 
 ### Provas, Atividades e Trabalhos
-- [ ] **Trabalho 1 - Segurança em Comp** *10*
+- [ ] **Trabalho 1 - Segurança em Comp** *10/09*
+
 
