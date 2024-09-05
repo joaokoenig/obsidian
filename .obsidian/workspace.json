@@ -11,8 +11,12 @@
             "id": "dfda30bd845804b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tênis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tênis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tênis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tênis.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "dfda30bd845804b0",
   "lastOpenFiles": [
+    "tênis.md",
+    "Untitled",
     "Redes II/Capítulo 1.md",
     "To-Do.md",
     "Segurança/Noções Básicas de Segurança.md",
@@ -147,7 +157,6 @@
     "Unicor Landing Page.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/images",
-    "Untitled",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
