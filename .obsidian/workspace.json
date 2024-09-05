@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tênis.md",
+                "file": "Segurança/Aspectos Legais e Éticos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tênis.md",
+                "file": "Segurança/Aspectos Legais e Éticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tênis.md",
+                "file": "Segurança/Aspectos Legais e Éticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tênis.md"
+                "file": "Segurança/Aspectos Legais e Éticos.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "dfda30bd845804b0",
   "lastOpenFiles": [
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "Segurança/Aspectos Legais e Éticos.md",
     "tênis.md",
     "Untitled",
     "Redes II/Capítulo 1.md",
     "To-Do.md",
     "Segurança/Noções Básicas de Segurança.md",
-    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Unicor Landing Page.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/images",
@@ -182,7 +183,6 @@
     "conflict-files-obsidian-git.md",
     "Testing/testing.md",
     "Matemática Discreta/Lógica Proposicional.md",
-    "Circuitos Digitais/Sistemas de Numeração.md",
     "Testing",
     "Chess"
   ]
