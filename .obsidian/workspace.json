@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Aspectos Legais e Éticos.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Aspectos Legais e Éticos.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Aspectos Legais e Éticos.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Aspectos Legais e Éticos.md"
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "dfda30bd845804b0",
   "lastOpenFiles": [
-    "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
+    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "tênis.md",
     "Untitled",
     "Redes II/Capítulo 1.md",
     "To-Do.md",
-    "Segurança/Noções Básicas de Segurança.md",
     "Unicor Landing Page.md",
-    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Circuitos Digitais/Operações com Números Binários.md",
