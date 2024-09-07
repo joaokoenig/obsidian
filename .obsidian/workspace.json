@@ -128,6 +128,14 @@
                 "file": "Shoes Shopping List.md"
               }
             }
+          },
+          {
+            "id": "d6e87b541d3db4eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,11 +156,12 @@
   },
   "active": "dfda30bd845804b0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Shoes Shopping List.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
-    "Shoes Shopping List.md",
     "Untitled",
     "Redes II/Capítulo 1.md",
     "To-Do.md",
@@ -182,7 +191,6 @@
     "Config Arch Linux.md",
     "conflict-files-obsidian-git.md",
     "Testing/testing.md",
-    "Matemática Discreta/Lógica Proposicional.md",
     "Testing",
     "Chess"
   ]
