@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38c8cd44e387761a",
+        "id": "cde97dc5fc67e8a5",
         "type": "tabs",
         "children": [
           {
-            "id": "dfda30bd845804b0",
+            "id": "e956b95f0b3392b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Calendar/2024-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Calendar/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Calendar/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shoes Shopping List.md"
+                "file": "Calendar/2024-09-23.md"
               }
             }
           },
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,18 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfda30bd845804b0",
+  "active": "d6e87b541d3db4eb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Reminders/2024-09-24.md",
+    "Calendar/2024-09-23.md",
+    "Calendar",
+    "To-Do.md",
+    "Calendar/2024-09-03.md",
+    "Unicor Landing Page.md",
     "Shoes Shopping List.md",
+    "Untitled.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
-    "Untitled",
     "Redes II/Capítulo 1.md",
-    "To-Do.md",
-    "Unicor Landing Page.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Circuitos Digitais/Operações com Números Binários.md",
@@ -188,9 +191,6 @@
     "Linux",
     "Elétrica/Eletrodinâmica.md",
     "Elétrica",
-    "Config Arch Linux.md",
-    "conflict-files-obsidian-git.md",
-    "Testing/testing.md",
     "Testing",
     "Chess"
   ]

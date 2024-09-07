@@ -6,10 +6,3 @@
 ##### Revisões das aulas
 - [x] Redes II - Capítulo 1
 - [ ] Prob e Est - Conceitos Iniciais
-
-
-
-### Provas, Atividades e Trabalhos
-- [ ] **Trabalho 1 - Segurança em Comp** *10/09*
-
-
