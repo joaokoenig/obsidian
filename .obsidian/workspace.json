@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cde97dc5fc67e8a5",
+        "id": "b7493f1275a7cb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "e956b95f0b3392b8",
+            "id": "40c5f35619c0dcd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2024-09-23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2024-09-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2024-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calendar/2024-09-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e87b541d3db4eb",
+  "active": "e4ad8ca0e2246e6e",
   "lastOpenFiles": [
-    "Reminders/2024-09-24.md",
     "Calendar/2024-09-23.md",
+    "Reminders/2024-09-24.md",
     "Calendar",
     "To-Do.md",
     "Calendar/2024-09-03.md",
