@@ -11,6 +11,7 @@
 
 - O que é o Chip MiFair Classic?
 	- Por quem é produzido e onde é utilizado? 
-- Quais são o p
+- Existem vulnerabilidades conhecidas? Se sim, quais? 
+- 
 
 
