@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md"
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "c2f74c0cf1302ae2",
   "lastOpenFiles": [
-    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
