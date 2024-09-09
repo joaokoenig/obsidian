@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes II/Capítulo 1.md",
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes II/Capítulo 1.md"
+                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ad8ca0e2246e6e",
+  "active": "40c5f35619c0dcd4",
   "lastOpenFiles": [
+    "Redes II/Capítulo 1.md",
+    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Calendar/2024-09-23.md",
     "Reminders/2024-09-24.md",
     "Calendar",
@@ -168,7 +170,6 @@
     "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
-    "Redes II/Capítulo 1.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Circuitos Digitais/Operações com Números Binários.md",
@@ -189,7 +190,6 @@
     "Linux/Vim Motions.md",
     "Linux/Config Arch Linux.md",
     "Linux",
-    "Elétrica/Eletrodinâmica.md",
     "Elétrica",
     "Testing",
     "Chess"
