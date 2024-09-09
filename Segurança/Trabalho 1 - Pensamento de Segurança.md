@@ -7,3 +7,8 @@
 4. Contra Medidas
 5. Custo x Benefício
 
+
+- Diferença de um RFID pra um NFC
+
+
+*Ativos*: 
