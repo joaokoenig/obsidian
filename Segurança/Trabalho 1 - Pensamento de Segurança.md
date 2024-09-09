@@ -8,7 +8,9 @@
 5. Custo x Benefício
 
 
-- Diferença de um RFID pra um NFC
+
+- O que é o Chip MiFair Classic?
+	- Por quem é produzido e onde é utilizado? 
+- Quais são o p
 
 
-*Ativos*: 
