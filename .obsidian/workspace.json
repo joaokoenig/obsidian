@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a31dc1be1748b46",
+        "id": "d058afd167679cb9",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f74c0cf1302ae2",
+            "id": "6e5e73e27cbff422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+                "file": "To-Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+                "file": "To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Trabalho 1 - Pensamento de Segurança.md"
+                "file": "To-Do.md"
               }
             }
           },
@@ -154,19 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f74c0cf1302ae2",
+  "active": "6e5e73e27cbff422",
   "lastOpenFiles": [
+    "Reminders/2024-09-30.md",
+    "To-Do.md",
+    "Reminders",
+    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
-    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Redes II/Capítulo 1.md",
     "Calendar/2024-09-23.md",
     "Reminders/2024-09-24.md",
     "Calendar",
-    "To-Do.md",
     "Calendar/2024-09-03.md",
     "Unicor Landing Page.md",
     "Shoes Shopping List.md",
@@ -188,10 +190,8 @@
     "Linux/desafio estágio/To Do.md",
     "Linux/desafio estágio",
     "Linux/Vim Motions.md",
-    "Linux/Config Arch Linux.md",
     "Linux",
     "Elétrica",
-    "Testing",
-    "Chess"
+    "Testing"
   ]
 }
