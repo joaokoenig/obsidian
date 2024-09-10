@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Do.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Do.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "6e5e73e27cbff422",
   "lastOpenFiles": [
-    "Reminders/2024-09-30.md",
+    "Segurança/Aspectos Legais e Éticos.md",
     "To-Do.md",
+    "Reminders/2024-09-30.md",
     "Reminders",
     "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
@@ -175,7 +176,6 @@
     "Untitled.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Segurança/Noções Básicas de Segurança.md",
-    "Segurança/Aspectos Legais e Éticos.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Segurança",
