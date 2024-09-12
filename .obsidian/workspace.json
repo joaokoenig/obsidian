@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d058afd167679cb9",
+        "id": "8f7f1d7a3a920d9d",
         "type": "tabs",
         "children": [
           {
-            "id": "6e5e73e27cbff422",
+            "id": "8014caac5c94147d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md"
+                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
               }
             }
           },
@@ -154,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e5e73e27cbff422",
+  "active": "8014caac5c94147d",
   "lastOpenFiles": [
+    "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
     "To-Do.md",
     "Reminders/2024-09-30.md",
@@ -175,7 +176,6 @@
     "Shoes Shopping List.md",
     "Untitled.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
-    "Segurança/Noções Básicas de Segurança.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Segurança",
