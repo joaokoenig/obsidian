@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Criptografia Simétrica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Criptografia Simétrica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md",
+                "file": "Segurança/Criptografia Simétrica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilidade e Estatística/Conceitos Iniciais.md"
+                "file": "Segurança/Criptografia Simétrica.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "8014caac5c94147d",
   "lastOpenFiles": [
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "Segurança/Criptografia Simétrica.md",
     "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Aspectos Legais e Éticos.md",
     "To-Do.md",
@@ -175,7 +177,6 @@
     "Unicor Landing Page.md",
     "Shoes Shopping List.md",
     "Untitled.md",
-    "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Segurança",
@@ -189,7 +190,6 @@
     "Matemática Discreta/Análise Combinatória.md",
     "Linux/desafio estágio/To Do.md",
     "Linux/desafio estágio",
-    "Linux/Vim Motions.md",
     "Linux",
     "Elétrica",
     "Testing"
