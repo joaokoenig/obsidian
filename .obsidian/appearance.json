@@ -1,8 +1,8 @@
 {
-  "accentColor": "#7dcaee",
-  "cssTheme": "Catppuccin",
+  "accentColor": "#eeb97c",
+  "cssTheme": "Border",
   "baseFontSize": 18,
   "translucency": true,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "textFontFamily": "JetBrainsMono Nerd Font Mono,Inter,FreeSans"
 }
