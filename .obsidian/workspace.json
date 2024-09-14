@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "caec687762f2c625",
+        "id": "47e3b2f6203fa9a7",
         "type": "tabs",
         "children": [
           {
-            "id": "088c352d487580cd",
+            "id": "8661b0b2f4a25e9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Elétrica/Eletrodinâmica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Elétrica/Eletrodinâmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Elétrica/Eletrodinâmica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Elétrica/Eletrodinâmica.md"
+              }
             }
           },
           {
@@ -126,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "088c352d487580cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           },
@@ -152,13 +168,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "088c352d487580cd",
+  "active": "d6e87b541d3db4eb",
   "lastOpenFiles": [
-    "Reminders/2024-09-30.md",
     "Elétrica/Eletrodinâmica.md",
+    "Reminders/2024-09-30.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Segurança/Criptografia Simétrica.md",

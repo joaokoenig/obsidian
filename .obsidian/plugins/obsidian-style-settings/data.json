@@ -1,4 +1,6 @@
 {
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-lillimon-topaz",
+  "Appearance-light@@theme-light-style-select": "theme-light-background-old-default",
+  "Appearance-light@@workspace-divider-transparent-light": false
 }
