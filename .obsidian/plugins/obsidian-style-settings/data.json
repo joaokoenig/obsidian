@@ -2,5 +2,10 @@
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-lillimon-topaz",
   "Appearance-light@@theme-light-style-select": "theme-light-background-old-default",
-  "Appearance-light@@workspace-divider-transparent-light": false
+  "Appearance-light@@workspace-divider-transparent-light": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-blue",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
+  "anuppuccin-theme-settings@@anp-list-toggle": true
 }

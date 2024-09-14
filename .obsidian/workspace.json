@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Segurança/Noções Básicas de Segurança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Segurança/Noções Básicas de Segurança.md"
               }
             }
           },
@@ -172,26 +172,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e4ad8ca0e2246e6e",
+  "active": "4ff520ddd0f0c628",
   "lastOpenFiles": [
+    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+    "Segurança/Noções Básicas de Segurança.md",
+    "Segurança/Criptografia Simétrica.md",
+    "Segurança/Aspectos Legais e Éticos.md",
+    "Homepage.md",
     "Reminders/2024-10-29.md",
     "Reminders/2024-09-29.md",
     "Reminders/2024-09-30.md",
     "Reminders/2024-09-17.md",
     "Reminders/2024-09-26.md",
-    "Homepage.md",
     "Reminders/2024-09-22.md",
     "Shoes Shopping List.md",
-    "Segurança/Aspectos Legais e Éticos.md",
     "Elétrica/Eletrodinâmica.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
-    "Segurança/Criptografia Simétrica.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
-    "Segurança/Noções Básicas de Segurança.md",
     "To-Do.md",
     "Reminders",
-    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Operações com Números Binários.md",
     "Circuitos Digitais/Portas Lógicas e Álgebra Booleana.md",
