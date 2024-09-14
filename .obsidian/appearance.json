@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Border",
   "baseFontSize": 18,
   "translucency": true,
   "theme": "moonstone",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono,Hiragino Maru Gothic ProN,Inter,FreeSans"
+  "textFontFamily": "Inter,Helvetica,JetBrainsMono Nerd Font Mono,FreeSans"
 }

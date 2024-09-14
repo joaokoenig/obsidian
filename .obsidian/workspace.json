@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c791e43f6a51c1e",
+        "id": "bab156b01ecf2916",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff520ddd0f0c628",
+            "id": "16335c5a292ce90e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Noções Básicas de Segurança.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -172,25 +172,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ff520ddd0f0c628",
+  "active": "16335c5a292ce90e",
   "lastOpenFiles": [
-    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+    "Untitled.canvas",
+    "Shoes Shopping List.md",
+    "To-Do.md",
+    "Reminders/2024-10-29.md",
     "Segurança/Noções Básicas de Segurança.md",
+    "Homepage.md",
+    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Segurança/Criptografia Simétrica.md",
     "Segurança/Aspectos Legais e Éticos.md",
-    "Homepage.md",
-    "Reminders/2024-10-29.md",
     "Reminders/2024-09-29.md",
     "Reminders/2024-09-30.md",
     "Reminders/2024-09-17.md",
     "Reminders/2024-09-26.md",
     "Reminders/2024-09-22.md",
-    "Shoes Shopping List.md",
     "Elétrica/Eletrodinâmica.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
-    "To-Do.md",
     "Reminders",
     "Circuitos Digitais/Sistemas de numeração.md",
     "Circuitos Digitais/Operações com Números Binários.md",
@@ -206,7 +207,6 @@
     "Segurança",
     "Redes II",
     "Probabilidade e Estatística",
-    "Matemática Discreta/Métodos de Prova.md",
     "Linux/desafio estágio",
     "Linux",
     "Elétrica",
