@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47e3b2f6203fa9a7",
+        "id": "5c791e43f6a51c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "8661b0b2f4a25e9b",
+            "id": "4ff520ddd0f0c628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Dataview Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Dataview Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
+                "file": "Dataview Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md"
+                "file": "Dataview Testing.md"
               }
             }
           },
@@ -172,8 +172,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6e87b541d3db4eb",
+  "active": "4ff520ddd0f0c628",
   "lastOpenFiles": [
+    "Dataview Testing.md",
+    "Reminders/2024-09-22.md",
     "Elétrica/Eletrodinâmica.md",
     "Reminders/2024-09-30.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
@@ -195,7 +197,6 @@
     "Calendar/2024-09-03.md",
     "Unicor Landing Page.md",
     "Shoes Shopping List.md",
-    "Untitled.md",
     "Circuitos Digitais/images",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Segurança",
@@ -206,7 +207,6 @@
     "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
     "Matemática Discreta/Relações.md",
     "Matemática Discreta/Aritmética Modular.md",
-    "Matemática Discreta/Análise Combinatória.md",
     "Linux/desafio estágio",
     "Linux",
     "Elétrica",
