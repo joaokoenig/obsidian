@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5af5b2fbab56dcc5",
+        "id": "caec687762f2c625",
         "type": "tabs",
         "children": [
           {
-            "id": "a268f9e66e7442f8",
+            "id": "088c352d487580cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elétrica/Eletrodinâmica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elétrica/Eletrodinâmica.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a268f9e66e7442f8",
+  "active": "088c352d487580cd",
   "lastOpenFiles": [
     "Reminders/2024-09-30.md",
+    "Elétrica/Eletrodinâmica.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Segurança/Criptografia Simétrica.md",
@@ -197,7 +190,6 @@
     "Matemática Discreta/Relações.md",
     "Matemática Discreta/Aritmética Modular.md",
     "Matemática Discreta/Análise Combinatória.md",
-    "Linux/desafio estágio/To Do.md",
     "Linux/desafio estágio",
     "Linux",
     "Elétrica",
