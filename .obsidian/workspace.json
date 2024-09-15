@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Reminders/2024-09-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Reminders/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Reminders/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Reminders/2024-09-30.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "16335c5a292ce90e",
   "lastOpenFiles": [
+    "Homepage.md",
     "Untitled.canvas",
     "Shoes Shopping List.md",
     "To-Do.md",
     "Reminders/2024-10-29.md",
     "Segurança/Noções Básicas de Segurança.md",
-    "Homepage.md",
     "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Segurança/Criptografia Simétrica.md",
     "Segurança/Aspectos Legais e Éticos.md",
