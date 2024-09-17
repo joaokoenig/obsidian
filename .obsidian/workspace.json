@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2de236d843a6fae2",
+            "id": "2b887542d7347027",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reminders/2024-09-16.md",
+                "file": "Reminders/2024-09-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reminders/2024-09-16.md",
+                "file": "Reminders/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reminders/2024-09-16.md",
+                "file": "Reminders/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reminders/2024-09-16.md"
+                "file": "Reminders/2024-09-30.md"
               }
             }
           },
@@ -172,12 +172,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2de236d843a6fae2",
+  "active": "2b887542d7347027",
   "lastOpenFiles": [
-    "Homepage.md",
     "Reminders/2024-09-16.md",
     "Reminders/2024-09-30.md",
     "Reminders/2024-09-17.md",
+    "Homepage.md",
+    "Reminders/2024-09-29.md",
     "Untitled.canvas",
     "Shoes Shopping List.md",
     "To-Do.md",
@@ -186,7 +187,6 @@
     "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Segurança/Criptografia Simétrica.md",
     "Segurança/Aspectos Legais e Éticos.md",
-    "Reminders/2024-09-29.md",
     "Reminders/2024-09-26.md",
     "Reminders/2024-09-22.md",
     "Elétrica/Eletrodinâmica.md",
