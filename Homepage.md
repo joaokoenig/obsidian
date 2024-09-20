@@ -12,4 +12,5 @@ SORT data asc
 - [ ] [Curso de Introdução à R](https://youtu.be/_V8eKsto3Ug?si=HJJPnIx2bTK-Pusn)
 - [ ] Leitura Tanenbaum
 - [ ] Guide - FastAPI
+- [ ] Finalizar exercícios de POO2 
 - [ ] Continuar exercícios de elétrica
