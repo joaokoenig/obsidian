@@ -7,3 +7,9 @@ WHERE type = "Prova" or type = "Trabalho"
 SORT data asc
 ```
 
+
+##### To Do 
+- [ ] [Curso de Introdução à R](https://youtu.be/_V8eKsto3Ug?si=HJJPnIx2bTK-Pusn)
+- [ ] Leitura Tanenbaum
+- [ ] Guide - FastAPI
+- [ ] Continuar exercícios de elétrica
