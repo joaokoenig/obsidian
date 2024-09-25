@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d89703863f6723c6",
+        "id": "3820267948d01902",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe6da7811b230b3",
+            "id": "a68edff11b8f61dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática Discreta/Lógica de Predicados.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -172,13 +172,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9fe6da7811b230b3",
+  "active": "a68edff11b8f61dc",
   "lastOpenFiles": [
-    "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
+    "Matemática Discreta/Lógica de Predicados.md",
+    "Calendar/2024-09-24.md",
     "Homepage.md",
+    "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
     "Matemática Discreta/Análise Combinatória.md",
     "Matemática Discreta/Conjuntos e Sequências.md",
-    "Matemática Discreta/Lógica de Predicados.md",
     "Matemática Discreta/Indução e Recursão.md",
     "Matemática Discreta/Lógica Proposicional.md",
     "Matemática Discreta/Métodos de Prova.md",
@@ -200,7 +201,6 @@
     "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Segurança/Criptografia Simétrica.md",
     "Segurança/Aspectos Legais e Éticos.md",
-    "Elétrica/Eletrodinâmica.md",
     "Reminders",
     "Calendar",
     "Circuitos Digitais/images",
