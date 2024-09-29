@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3820267948d01902",
+        "id": "1b6476e06b5a37f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a68edff11b8f61dc",
+            "id": "81d5b438e87bc833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "6266951a02cbcc56",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shoes Shopping List.md",
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,40 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shoes Shopping List.md"
+                "file": "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md"
               }
             }
-          },
-          {
-            "id": "d6e87b541d3db4eb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "088c352d487580cd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9090730e5827622",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,50 +143,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a68edff11b8f61dc",
+  "active": "81d5b438e87bc833",
   "lastOpenFiles": [
+    "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
+    "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
+    "Segurança/Criptografia Simétrica.md",
+    "Segurança/Aspectos Legais e Éticos.md",
+    "Linux/desafio estágio/To Do.md",
+    "Shoes Shopping List.md",
+    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
+    "Segurança/Noções Básicas de Segurança.md",
+    "Segurança",
+    "Redes II/Capítulo 1.md",
+    "Redes II",
+    "Probabilidade e Estatística/Conceitos Iniciais.md",
+    "Probabilidade e Estatística",
     "Homepage.md",
-    "Matemática Discreta/Lógica de Predicados.md",
-    "Calendar/2024-09-24.md",
-    "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
-    "Matemática Discreta/Análise Combinatória.md",
-    "Matemática Discreta/Conjuntos e Sequências.md",
-    "Matemática Discreta/Indução e Recursão.md",
-    "Matemática Discreta/Lógica Proposicional.md",
-    "Matemática Discreta/Métodos de Prova.md",
-    "Matemática Discreta/Relações.md",
-    "Matemática Discreta/Aritmética Modular.md",
-    "Calendar/2024-09-23.md",
-    "Calendar/2024-09-17.md",
+    "Circuitos Digitais/images/exercicio2.1.png",
+    "Circuitos Digitais/images",
     "Calendar/2024-10-29.md",
-    "Calendar/2024-09-16.md",
     "Calendar/2024-09-30.md",
     "Calendar/2024-09-29.md",
     "Calendar/2024-09-26.md",
+    "Calendar/2024-09-24.md",
+    "Calendar/2024-09-23.md",
     "Calendar/2024-09-22.md",
-    "().md",
-    "To-Do.md",
-    "Untitled.canvas",
-    "Shoes Shopping List.md",
-    "Segurança/Noções Básicas de Segurança.md",
-    "Segurança/Trabalho 1 - Pensamento de Segurança.md",
-    "Segurança/Criptografia Simétrica.md",
-    "Segurança/Aspectos Legais e Éticos.md",
-    "Reminders",
+    "Calendar/2024-09-17.md",
+    "Calendar/2024-09-16.md",
+    "Calendar/2024-09-03.md",
     "Calendar",
-    "Circuitos Digitais/images",
-    "Circuitos Digitais/images/exercicio2.1.png",
-    "Segurança",
-    "Redes II",
-    "Probabilidade e Estatística",
+    "Elétrica/Eletrodinâmica.md",
     "Linux/desafio estágio",
-    "Linux",
+    "Matemática Discreta/Relações.md",
     "Elétrica",
-    "Testing"
+    "Matemática Discreta/Métodos de Prova.md",
+    "Matemática Discreta/Lógica de Predicados.md",
+    "Matemática Discreta/Indução e Recursão.md",
+    "Cálculo 1",
+    "Circuitos Digitais/Untitled",
+    "Linux"
   ]
 }
