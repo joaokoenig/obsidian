@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Circuitos Digitais/Notes for the test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Circuitos Digitais/Notes for the test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Circuitos Digitais/Notes for the test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Circuitos Digitais/Notes for the test.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "a5825944df10f468",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Circuitos Digitais/Notes for the test.md",
     "Circuitos Digitais/Projeto de Circuitos Lógicos Combinacionais.md",
     "Circuitos Digitais/Álgebra Booleana e Portas Lógicas.md",
     "Segurança/Criptografia Simétrica.md",
@@ -171,7 +173,6 @@
     "Redes II",
     "Probabilidade e Estatística/Conceitos Iniciais.md",
     "Probabilidade e Estatística",
-    "Homepage.md",
     "Circuitos Digitais/images/exercicio2.1.png",
     "Circuitos Digitais/images",
     "Calendar/2024-10-29.md",
@@ -191,7 +192,6 @@
     "Elétrica",
     "Matemática Discreta/Métodos de Prova.md",
     "Matemática Discreta/Lógica de Predicados.md",
-    "Matemática Discreta/Indução e Recursão.md",
     "Cálculo 1",
     "Circuitos Digitais/Untitled",
     "Linux"
