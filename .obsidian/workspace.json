@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3820267948d01902",
+        "id": "3f31c922b6200f96",
         "type": "tabs",
         "children": [
           {
-            "id": "a68edff11b8f61dc",
+            "id": "3a11182a999c1f76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,9 +172,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a68edff11b8f61dc",
+  "active": "3a11182a999c1f76",
   "lastOpenFiles": [
     "Homepage.md",
+    "Shoes Shopping List.md",
     "Matemática Discreta/Lógica de Predicados.md",
     "Calendar/2024-09-24.md",
     "Matemática Discreta/Teoria dos Números e Divisibilidade.md",
@@ -196,7 +197,6 @@
     "().md",
     "To-Do.md",
     "Untitled.canvas",
-    "Shoes Shopping List.md",
     "Segurança/Noções Básicas de Segurança.md",
     "Segurança/Trabalho 1 - Pensamento de Segurança.md",
     "Segurança/Criptografia Simétrica.md",
